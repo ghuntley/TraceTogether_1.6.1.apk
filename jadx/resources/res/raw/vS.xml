@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" layout_width="match_parent" layout_height="match_parent">
+    <o.C2512 layout_width="match_parent" layout_height="0dp" NOT_FOUND_0xb="@+id/2131362061" NOT_FOUND_0x10="0">
+        <ImageView id="@+id/2131362191" layout_width="wrap_content" layout_height="wrap_content" src="0x7f080070" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0x10="0" style="@style/2131951861"/>
+        <o.C1514 gravity="left" id="@+id/2131362425" visibility="visible" layout_width="0dp" layout_height="wrap_content" text="Set up app permissions" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0xf="@+id/2131362191" style="@style/2131951863"/>
+        <o.C1514 gravity="left" id="@+id/2131362413" visibility="visible" layout_width="0dp" layout_height="wrap_content" layout_marginTop="12dp" text="@string/2131886318" NOT_FOUND_0xc="0" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0xf="@+id/2131362425" style="@style/2131951858"/>
+        <o.C1514 gravity="left" id="@+id/2131362417" visibility="visible" layout_width="0dp" layout_height="wrap_content" layout_marginTop="12dp" text="1. Bluetooth" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0xf="@+id/2131362413" style="@style/2131951862"/>
+        <o.C1514 gravity="left" id="@+id/2131362418" visibility="visible" layout_width="0dp" layout_height="wrap_content" layout_marginTop="5dp" text="2. Location Permissions" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0xf="@+id/2131362417" style="@style/2131951862"/>
+        <o.C1514 textColor="#505050" gravity="left" id="@+id/2131362424" paddingTop="16dp" visibility="visible" layout_width="0dp" layout_height="wrap_content" text="Android needs Location Permissions for Bluetooth to work. We don&apos;t have access to your physical location." NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0xf="@+id/2131362418" style="@style/2131951862"/>
+        <o.C1514 gravity="left" id="@+id/2131362419" visibility="visible" layout_width="0dp" layout_height="wrap_content" layout_marginTop="5dp" text="3. Battery Optimiser" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0" NOT_FOUND_0xf="@+id/2131362418" style="@style/2131951862"/>
+    </o.C2512>
+    <FrameLayout id="@+id/2131362061" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0xa="0">
+        <include layout="@layout/2131558441"/>
+    </FrameLayout>
+</o.C2512>

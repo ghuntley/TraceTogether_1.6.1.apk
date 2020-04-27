@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="2131951616">
+    </style>
+    <style name="2131951617">
+    </style>
+    <style name="2131951619">
+    </style>
+    <style name="2131951620">
+    </style>
+    <style name="2131951621">
+    </style>
+    <style name="2131951622">
+        <item name="android:windowEnterAnimation">@anim/2130771994</item>
+        <item name="android:windowExitAnimation">@anim/2130771995</item>
+    </style>
+    <style name="2131951624">
+        <item name="android:fontFamily">@font/2131296256</item>
+        <item name="2130968945">@font/2131296256</item>
+    </style>
+    <style name="2131951625">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:fontFamily">@font/2131296256</item>
+        <item name="2130968945">@font/2131296256</item>
+        <item name="2130969390">false</item>
+        <item name="2130969399">true</item>
+    </style>
+    <style name="2131951626">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:fontFamily">@font/2131296256</item>
+        <item name="2130968945">@font/2131296256</item>
+        <item name="2130969390">false</item>
+        <item name="2130969399">true</item>
+    </style>
+    <style name="2131951627">
+        <item name="android:layout">@layout/2131558409</item>
+        <item name="2130968698">@dimen/2131165201</item>
+        <item name="2130969098">@layout/2131558525</item>
+        <item name="2130969099">@layout/2131558426</item>
+        <item name="2130969154">@layout/2131558526</item>
+        <item name="2130969238">@layout/2131558527</item>
+    </style>
+    <style name="2131951628">
+    </style>
+    <style name="2131951629">
+        <item name="android:windowEnterAnimation">@anim/2130771971</item>
+        <item name="android:windowExitAnimation">@anim/2130771972</item>
+    </style>
+    <style name="2131951630">
+        <item name="android:windowEnterAnimation">@anim/2130771970</item>
+        <item name="android:windowExitAnimation">@anim/2130771973</item>
+    </style>
+    <style name="2131951631">
+        <item name="android:windowEnterAnimation">@anim/2130771978</item>
+        <item name="android:windowExitAnimation">@anim/2130771979</item>
+    </style>
+    <style name="2131951632">
+        <item name="2130968706">@dimen/2131165272</item>
+        <item name="2130968707">@dimen/2131165271</item>
+        <item name="2130968709">@dimen/2131165271</item>
+        <item name="2130968710">true</item>
+        <item name="2130968711">false</item>
+    </style>
+    <style name="2131951633">
+        <item name="android:textAppearance">@style/2131951953</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+    <style name="2131951634">
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">?attr/2130968871</item>
+        <item name="android:paddingTop">@dimen/2131165221</item>
+        <item name="android:paddingRight">?attr/2130968871</item>
+    </style>
+    <style name="2131951638">
+    </style>
+    <style name="2131951639">
+    </style>
+    <style name="2131951640">
+    </style>
+    <style name="2131951641">
+    </style>
+    <style name="2131951642">
+    </style>
+    <style name="2131951643">
+    </style>
+    <style name="2131951657">
+    </style>
+    <style name="2131951658">
+    </style>
+    <style name="2131951661">
+    </style>
+    <style name="2131951663">
+    </style>
+    <style name="2131951666">
+        <item name="android:textColor">?attr/2130968592</item>
+        <item name="2130969310">@bool/2131034114</item>
+    </style>
+    <style name="2131951667">
+    </style>
+    <style name="2131951669">
+    </style>
+    <style name="2131951671">
+    </style>
+    <style name="2131951672">
+    </style>
+    <style name="2131951673">
+    </style>
+    <style name="2131951675">
+        <item name="android:textColor">@color/2131099651</item>
+    </style>
+    <style name="2131951678">
+        <item name="android:textSize">@dimen/2131165255</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="2131951679">
+    </style>
+    <style name="2131951680">
+    </style>
+    <style name="2131951681">
+    </style>
+    <style name="2131951683">
+        <item name="android:textSize">@dimen/2131165365</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?unknown_attr_ref: 7f0400e9</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0893</item>
+        <item name="2130968945">sans-serif-medium</item>
+    </style>
+    <style name="2131951686">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.0071</item>
+        <item name="2130968945">sans-serif-medium</item>
+    </style>
+    <style name="2131951688">
+    </style>
+    <style name="2131951689">
+    </style>
+    <style name="2131951690">
+    </style>
+    <style name="2131951691">
+        <item name="android:listViewStyle">@style/2131952190</item>
+        <item name="android:windowAnimationStyle">@style/2131951620</item>
+        <item name="android:itemTextAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+    <style name="2131951697">
+    </style>
+    <style name="2131951698">
+        <item name="2130968579">@style/2131952100</item>
+        <item name="2130968586">@style/2131952095</item>
+        <item name="2130968587">@null</item>
+        <item name="2130968815">@color/2131099872</item>
+        <item name="2130968816">@color/2131099870</item>
+        <item name="2130969094">@drawable/2131230779</item>
+    </style>
+    <style name="2131951699">
+    </style>
+    <style name="2131951723">
+    </style>
+    <style name="2131951724">
+        <item name="2130968806">?android:attr/textColorPrimary</item>
+        <item name="2130969222">@style/2131952200</item>
+    </style>
+    <style name="2131951725">
+        <item name="android:colorForeground">@color/2131099759</item>
+        <item name="android:colorBackground">@color/2131099676</item>
+        <item name="android:textColorPrimary">@color/2131099658</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/2131099656</item>
+        <item name="android:textColorSecondary">@color/2131099664</item>
+        <item name="android:textColorPrimaryInverse">@color/2131099659</item>
+        <item name="android:textColorSecondaryInverse">@color/2131099665</item>
+        <item name="android:textColorHintInverse">@color/2131099654</item>
+        <item name="android:windowBackground">@color/2131099676</item>
+        <item name="android:textColorHighlight">@color/2131099774</item>
+        <item name="android:textColorHint">@color/2131099653</item>
+        <item name="android:colorForegroundInverse">@color/2131099760</item>
+        <item name="android:textColorTertiary">@color/2131099664</item>
+        <item name="android:textColorTertiaryInverse">@color/2131099665</item>
+        <item name="android:colorBackgroundCacheHint">@color/2131099648</item>
+        <item name="2130968802">@color/2131099674</item>
+        <item name="2130968803">@color/2131099690</item>
+        <item name="2130968805">@color/2131099879</item>
+        <item name="2130968806">?android:attr/textColorSecondary</item>
+        <item name="2130968823">@color/2131099892</item>
+        <item name="?0x7f0401a3">false</item>
+    </style>
+    <style name="2131951726">
+        <item name="2130968806">?android:attr/textColorPrimary</item>
+        <item name="2130969222">@style/2131952200</item>
+    </style>
+    <style name="2131951727">
+    </style>
+    <style name="2131951728">
+        <item name="android:windowMinWidthMajor">@dimen/2131165218</item>
+        <item name="android:windowMinWidthMinor">@dimen/2131165219</item>
+    </style>
+    <style name="2131951729">
+        <item name="android:colorForeground">@color/2131099760</item>
+        <item name="android:colorBackground">@color/2131099677</item>
+        <item name="android:textColorPrimary">@color/2131099659</item>
+        <item name="android:textColorPrimaryDisableOnly">@color/2131099657</item>
+        <item name="android:textColorSecondary">@color/2131099665</item>
+        <item name="android:textColorPrimaryInverse">@color/2131099658</item>
+        <item name="android:textColorSecondaryInverse">@color/2131099664</item>
+        <item name="android:textColorHintInverse">@color/2131099653</item>
+        <item name="android:windowBackground">@color/2131099677</item>
+        <item name="android:textColorHighlight">@color/2131099775</item>
+        <item name="android:textColorHint">@color/2131099654</item>
+        <item name="android:colorForegroundInverse">@color/2131099759</item>
+        <item name="android:textColorTertiary">@color/2131099665</item>
+        <item name="android:textColorTertiaryInverse">@color/2131099664</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">@color/2131099656</item>
+        <item name="android:colorBackgroundCacheHint">@color/2131099649</item>
+        <item name="2130968802">@color/2131099675</item>
+        <item name="2130968803">@color/2131099691</item>
+        <item name="2130968805">@color/2131099880</item>
+        <item name="2130968806">?android:attr/textColorSecondary</item>
+        <item name="2130968823">@color/2131099893</item>
+        <item name="?0x7f0401a3">true</item>
+    </style>
+    <style name="2131951745">
+        <item name="android:colorControlNormal">?attr/2130968806</item>
+        <item name="android:colorControlActivated">?attr/2130968804</item>
+        <item name="android:colorButtonNormal">?attr/2130968803</item>
+        <item name="android:colorControlHighlight">?attr/2130968805</item>
+        <item name="android:colorPrimary">?attr/2130968815</item>
+        <item name="android:colorPrimaryDark">?attr/2130968816</item>
+        <item name="android:colorAccent">?attr/2130968801</item>
+        <item name="2130968577">?android:attr/actionBarDivider</item>
+        <item name="2130968578">@drawable/2131230728</item>
+        <item name="2130968580">?android:attr/actionBarSize</item>
+        <item name="2130968588">?android:attr/actionButtonStyle</item>
+        <item name="2130968593">?android:attr/actionModeBackground</item>
+        <item name="2130968595">?android:attr/actionModeCloseDrawable</item>
+        <item name="2130968670">?android:attr/borderlessButtonStyle</item>
+        <item name="2130968701">?android:attr/buttonStyle</item>
+        <item name="2130968702">?android:attr/buttonStyleSmall</item>
+        <item name="2130968759">?android:attr/checkboxStyle</item>
+        <item name="2130968766">?android:attr/checkedTextViewStyle</item>
+        <item name="2130968875">?android:attr/dividerHorizontal</item>
+        <item name="2130968877">?android:attr/dividerVertical</item>
+        <item name="2130968890">@drawable/2131230747</item>
+        <item name="2130968891">?android:attr/editTextColor</item>
+        <item name="2130968976">?android:attr/homeAsUpIndicator</item>
+        <item name="2130969094">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="2130969104">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="2130969208">?android:attr/radioButtonStyle</item>
+        <item name="2130969210">?android:attr/ratingBarStyle</item>
+        <item name="2130969224">?android:attr/selectableItemBackground</item>
+        <item name="2130969225">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="2130969248">?android:attr/spinnerStyle</item>
+        <item name="2130969321">?android:attr/textAppearanceLargePopupMenu</item>
+        <item name="2130969330">?android:attr/textAppearanceSmallPopupMenu</item>
+    </style>
+    <style name="2131951747">
+        <item name="android:colorControlNormal">?attr/2130968806</item>
+        <item name="android:colorControlActivated">?attr/2130968804</item>
+        <item name="android:colorButtonNormal">?attr/2130968803</item>
+        <item name="android:colorControlHighlight">?attr/2130968805</item>
+        <item name="android:colorPrimary">?attr/2130968815</item>
+        <item name="android:colorPrimaryDark">?attr/2130968816</item>
+        <item name="android:colorAccent">?attr/2130968801</item>
+        <item name="2130968577">?android:attr/actionBarDivider</item>
+        <item name="2130968578">@drawable/2131230728</item>
+        <item name="2130968580">?android:attr/actionBarSize</item>
+        <item name="2130968588">?android:attr/actionButtonStyle</item>
+        <item name="2130968593">?android:attr/actionModeBackground</item>
+        <item name="2130968595">?android:attr/actionModeCloseDrawable</item>
+        <item name="2130968670">?android:attr/borderlessButtonStyle</item>
+        <item name="2130968701">?android:attr/buttonStyle</item>
+        <item name="2130968702">?android:attr/buttonStyleSmall</item>
+        <item name="2130968759">?android:attr/checkboxStyle</item>
+        <item name="2130968766">?android:attr/checkedTextViewStyle</item>
+        <item name="2130968875">?android:attr/dividerHorizontal</item>
+        <item name="2130968877">?android:attr/dividerVertical</item>
+        <item name="2130968890">@drawable/2131230747</item>
+        <item name="2130968891">?android:attr/editTextColor</item>
+        <item name="2130968976">?android:attr/homeAsUpIndicator</item>
+        <item name="2130969094">?android:attr/listChoiceBackgroundIndicator</item>
+        <item name="2130969104">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="2130969208">?android:attr/radioButtonStyle</item>
+        <item name="2130969210">?android:attr/ratingBarStyle</item>
+        <item name="2130969224">?android:attr/selectableItemBackground</item>
+        <item name="2130969225">?android:attr/selectableItemBackgroundBorderless</item>
+        <item name="2130969248">?android:attr/spinnerStyle</item>
+        <item name="2130969321">?android:attr/textAppearanceLargePopupMenu</item>
+        <item name="2130969330">?android:attr/textAppearanceSmallPopupMenu</item>
+    </style>
+    <style name="2131951748">
+        <item name="android:windowElevation">@dimen/2131165231</item>
+    </style>
+    <style name="2131951749">
+        <item name="android:windowElevation">@dimen/2131165231</item>
+    </style>
+    <style name="2131951750">
+        <item name="2130968602">?android:attr/actionModeShareDrawable</item>
+        <item name="2130968890">?android:attr/editTextBackground</item>
+    </style>
+    <style name="2131951751">
+        <item name="2130968602">?android:attr/actionModeShareDrawable</item>
+        <item name="2130968890">?android:attr/editTextBackground</item>
+    </style>
+    <style name="2131951759">
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/2131952189</item>
+        <item name="android:textViewStyle">@style/2131952207</item>
+        <item name="android:dropDownItemStyle">@style/2131952161</item>
+        <item name="android:spinnerItemStyle">@style/2131952208</item>
+        <item name="android:textAppearanceButton">@style/2131951965</item>
+        <item name="2130968577">?attr/2130968877</item>
+        <item name="2130968578">?attr/2130969225</item>
+        <item name="2130968579">@null</item>
+        <item name="2130968580">@dimen/2131165186</item>
+        <item name="2130968581">?attr/2130968582</item>
+        <item name="2130968582">@style/2131952139</item>
+        <item name="2130968583">@style/2131952140</item>
+        <item name="2130968584">@style/2131952142</item>
+        <item name="2130968585">@style/2131952141</item>
+        <item name="2130968586">@style/2131952093</item>
+        <item name="2130968587">@null</item>
+        <item name="2130968588">@style/2131952143</item>
+        <item name="2130968589">@style/2131952205</item>
+        <item name="2130968591">@style/2131951956</item>
+        <item name="2130968592">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="2130968593">@drawable/2131230743</item>
+        <item name="2130968594">@style/2131952144</item>
+        <item name="2130968595">@drawable/2131230748</item>
+        <item name="2130968596">?unknown_ref: 7f080021</item>
+        <item name="2130968597">?unknown_ref: 7f080022</item>
+        <item name="2130968599">?unknown_ref: 7f080024</item>
+        <item name="2130968601">?unknown_ref: 7f080025</item>
+        <item name="2130968602">?unknown_ref: 7f080026</item>
+        <item name="2130968603">?attr/2130968816</item>
+        <item name="2130968604">@style/2131952146</item>
+        <item name="2130968606">@style/2131952145</item>
+        <item name="2130968607">@style/2131952192</item>
+        <item name="2130968611">@style/2131952147</item>
+        <item name="2130968613">false</item>
+        <item name="2130968614">@style/2131951616</item>
+        <item name="2130968615">@style/2131952099</item>
+        <item name="2130968624">@style/2131952148</item>
+        <item name="2130968670">@style/2131952150</item>
+        <item name="2130968691">@style/2131952152</item>
+        <item name="2130968692">?attr/2130968691</item>
+        <item name="2130968693">?attr/2130968691</item>
+        <item name="2130968694">?attr/2130968691</item>
+        <item name="2130968695">@style/2131952155</item>
+        <item name="2130968701">@style/2131952149</item>
+        <item name="2130968702">@style/2131952154</item>
+        <item name="2130968759">@style/2131952157</item>
+        <item name="2130968801">@color/2131099672</item>
+        <item name="2130968802">@color/2131099674</item>
+        <item name="2130968803">@color/2131099690</item>
+        <item name="2130968804">?attr/2130968801</item>
+        <item name="2130968805">@color/2131099879</item>
+        <item name="2130968806">?android:attr/textColorSecondary</item>
+        <item name="2130968807">@color/2131099757</item>
+        <item name="2130968815">@color/2131099872</item>
+        <item name="2130968816">@color/2131099870</item>
+        <item name="2130968823">@color/2131099892</item>
+        <item name="2130968841">?attr/2130969225</item>
+        <item name="2130968870">@dimen/2131165211</item>
+        <item name="2130968871">@dimen/2131165220</item>
+        <item name="2130968872">@style/2131952098</item>
+        <item name="2130968875">?unknown_ref: 7f080032</item>
+        <item name="2130968877">?unknown_ref: 7f080032</item>
+        <item name="?0x7f040137">@style/2131952160</item>
+        <item name="2130968888">?android:attr/dropDownListViewStyle</item>
+        <item name="2130968889">?attr/2130969104</item>
+        <item name="2130968890">@drawable/2131230747</item>
+        <item name="2130968891">?android:attr/textColorPrimary</item>
+        <item name="2130968892">@style/2131952162</item>
+        <item name="2130968976">@drawable/2131230748</item>
+        <item name="2130968991">@style/2131952163</item>
+        <item name="?0x7f0401a3">false</item>
+        <item name="2130969094">@drawable/2131230779</item>
+        <item name="2130969097">@null</item>
+        <item name="2130969100">@style/2131952186</item>
+        <item name="2130969101">@style/2131952187</item>
+        <item name="2130969102">@dimen/2131165233</item>
+        <item name="2130969103">@dimen/2131165232</item>
+        <item name="2130969104">@dimen/2131165234</item>
+        <item name="2130969105">@dimen/2131165235</item>
+        <item name="2130969106">@dimen/2131165235</item>
+        <item name="2130969107">@dimen/2131165235</item>
+        <item name="2130969108">@dimen/2131165235</item>
+        <item name="2130969180">?unknown_ref: 7f08003d</item>
+        <item name="2130969181">@style/2131952016</item>
+        <item name="2130969182">@dimen/2131165236</item>
+        <item name="2130969196">@style/2131952191</item>
+        <item name="2130969208">@style/2131952158</item>
+        <item name="2130969210">@style/2131952196</item>
+        <item name="2130969211">@style/2131952197</item>
+        <item name="2130969212">@style/2131952198</item>
+        <item name="2130969222">@style/2131952199</item>
+        <item name="2130969223">@style/2131952201</item>
+        <item name="2130969224">@drawable/2131230767</item>
+        <item name="2130969225">?attr/2130969224</item>
+        <item name="2130969247">@style/2131952161</item>
+        <item name="2130969248">@style/2131952203</item>
+        <item name="2130969281">@style/2131952159</item>
+        <item name="2130969321">@style/2131951971</item>
+        <item name="2130969323">@style/2131951951</item>
+        <item name="2130969324">@style/2131951928</item>
+        <item name="2130969325">@style/2131951951</item>
+        <item name="2130969327">@style/2131951970</item>
+        <item name="2130969328">@style/2131951947</item>
+        <item name="2130969329">@style/2131951948</item>
+        <item name="2130969330">@style/2131951972</item>
+        <item name="2130969333">@color/2131099658</item>
+        <item name="2130969334">@color/2131099660</item>
+        <item name="2130969369">@style/2131952210</item>
+        <item name="2130969370">@style/2131952209</item>
+        <item name="2130969371">@color/2131099760</item>
+        <item name="2130969372">@drawable/2131231208</item>
+        <item name="2130969387">androidx.appcompat.app.AppCompatViewInflater</item>
+        <item name="2130969390">true</item>
+        <item name="2130969391">false</item>
+        <item name="2130969392">false</item>
+        <item name="2130969393">@null</item>
+        <item name="2130969394">@null</item>
+        <item name="2130969395">@null</item>
+        <item name="2130969396">@null</item>
+        <item name="2130969399">false</item>
+    </style>
+    <style name="2131951761">
+        <item name="android:panelBackground">@android:color/transparent</item>
+        <item name="android:dropDownListViewStyle">@style/2131952189</item>
+        <item name="android:textViewStyle">@style/2131952207</item>
+        <item name="android:dropDownItemStyle">@style/2131952161</item>
+        <item name="android:spinnerItemStyle">@style/2131952208</item>
+        <item name="android:textAppearanceButton">@style/2131951965</item>
+        <item name="2130968577">?attr/2130968877</item>
+        <item name="2130968578">?attr/2130969225</item>
+        <item name="2130968579">@null</item>
+        <item name="2130968580">@dimen/2131165186</item>
+        <item name="2130968581">?attr/2130968582</item>
+        <item name="2130968582">@style/2131952165</item>
+        <item name="2130968583">@style/2131952167</item>
+        <item name="2130968584">@style/2131952171</item>
+        <item name="2130968585">@style/2131952169</item>
+        <item name="2130968586">@style/2131952093</item>
+        <item name="2130968587">@null</item>
+        <item name="2130968588">@style/2131952173</item>
+        <item name="2130968589">@style/2131952185</item>
+        <item name="2130968591">@style/2131951956</item>
+        <item name="2130968592">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="2130968593">@drawable/2131230743</item>
+        <item name="2130968594">@style/2131952144</item>
+        <item name="2130968595">@drawable/2131230748</item>
+        <item name="2130968596">?unknown_ref: 7f080021</item>
+        <item name="2130968597">?unknown_ref: 7f080022</item>
+        <item name="2130968599">?unknown_ref: 7f080024</item>
+        <item name="2130968601">?unknown_ref: 7f080025</item>
+        <item name="2130968602">?unknown_ref: 7f080026</item>
+        <item name="2130968603">?attr/2130968816</item>
+        <item name="2130968604">@style/2131952146</item>
+        <item name="2130968606">@style/2131952175</item>
+        <item name="2130968607">@style/2131952183</item>
+        <item name="2130968611">@style/2131952147</item>
+        <item name="2130968613">false</item>
+        <item name="2130968614">@style/2131951617</item>
+        <item name="2130968615">@style/2131952099</item>
+        <item name="2130968624">@style/2131952148</item>
+        <item name="2130968670">@style/2131952150</item>
+        <item name="2130968691">@style/2131952152</item>
+        <item name="2130968692">?attr/2130968691</item>
+        <item name="2130968693">?attr/2130968691</item>
+        <item name="2130968694">?attr/2130968691</item>
+        <item name="2130968695">@style/2131952155</item>
+        <item name="2130968701">@style/2131952149</item>
+        <item name="2130968702">@style/2131952154</item>
+        <item name="2130968759">@style/2131952157</item>
+        <item name="2130968801">@color/2131099673</item>
+        <item name="2130968802">@color/2131099675</item>
+        <item name="2130968803">@color/2131099691</item>
+        <item name="2130968804">?attr/2130968801</item>
+        <item name="2130968805">@color/2131099880</item>
+        <item name="2130968806">?android:attr/textColorSecondary</item>
+        <item name="2130968807">@color/2131099758</item>
+        <item name="2130968815">@color/2131099873</item>
+        <item name="2130968816">@color/2131099871</item>
+        <item name="2130968823">@color/2131099893</item>
+        <item name="2130968841">?attr/2130969225</item>
+        <item name="2130968870">@dimen/2131165211</item>
+        <item name="2130968871">@dimen/2131165220</item>
+        <item name="2130968872">@style/2131952098</item>
+        <item name="2130968875">?unknown_ref: 7f080032</item>
+        <item name="2130968877">?unknown_ref: 7f080032</item>
+        <item name="?0x7f040137">@style/2131952160</item>
+        <item name="2130968888">?android:attr/dropDownListViewStyle</item>
+        <item name="2130968889">?attr/2130969104</item>
+        <item name="2130968890">@drawable/2131230747</item>
+        <item name="2130968891">?android:attr/textColorPrimary</item>
+        <item name="2130968892">@style/2131952162</item>
+        <item name="2130968976">@drawable/2131230748</item>
+        <item name="2130968991">@style/2131952163</item>
+        <item name="?0x7f0401a3">true</item>
+        <item name="2130969094">@drawable/2131230780</item>
+        <item name="2130969097">@null</item>
+        <item name="2130969100">@style/2131952186</item>
+        <item name="2130969101">@style/2131952187</item>
+        <item name="2130969102">@dimen/2131165233</item>
+        <item name="2130969103">@dimen/2131165232</item>
+        <item name="2130969104">@dimen/2131165234</item>
+        <item name="2130969105">@dimen/2131165235</item>
+        <item name="2130969106">@dimen/2131165235</item>
+        <item name="2130969107">@dimen/2131165235</item>
+        <item name="2130969108">@dimen/2131165235</item>
+        <item name="2130969180">?unknown_ref: 7f08003d</item>
+        <item name="2130969181">@style/2131952016</item>
+        <item name="2130969182">@dimen/2131165236</item>
+        <item name="2130969196">@style/2131952182</item>
+        <item name="2130969208">@style/2131952158</item>
+        <item name="2130969210">@style/2131952196</item>
+        <item name="2130969211">@style/2131952197</item>
+        <item name="2130969212">@style/2131952198</item>
+        <item name="2130969222">@style/2131952184</item>
+        <item name="2130969223">@style/2131952201</item>
+        <item name="2130969224">@drawable/2131230768</item>
+        <item name="2130969225">?attr/2130969224</item>
+        <item name="2130969247">@style/2131952161</item>
+        <item name="2130969248">@style/2131952203</item>
+        <item name="2130969281">@style/2131952159</item>
+        <item name="2130969321">@style/2131951942</item>
+        <item name="2130969323">@style/2131951951</item>
+        <item name="2130969324">@style/2131951928</item>
+        <item name="2130969325">@style/2131951951</item>
+        <item name="2130969327">@style/2131951970</item>
+        <item name="2130969328">@style/2131951947</item>
+        <item name="2130969329">@style/2131951948</item>
+        <item name="2130969330">@style/2131951943</item>
+        <item name="2130969333">@color/2131099659</item>
+        <item name="2130969334">@color/2131099660</item>
+        <item name="2130969369">@style/2131952210</item>
+        <item name="2130969370">@style/2131952209</item>
+        <item name="2130969371">@color/2131099759</item>
+        <item name="2130969372">@drawable/2131231207</item>
+        <item name="2130969387">androidx.appcompat.app.AppCompatViewInflater</item>
+        <item name="2130969390">true</item>
+        <item name="2130969391">false</item>
+        <item name="2130969392">false</item>
+        <item name="2130969393">@null</item>
+        <item name="2130969394">@null</item>
+        <item name="2130969395">@null</item>
+        <item name="2130969396">@null</item>
+        <item name="2130969399">false</item>
+    </style>
+    <style name="2131951762">
+        <item name="android:colorBackground">?attr/2130968802</item>
+        <item name="android:windowBackground">@drawable/2131230746</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/2131951878</item>
+        <item name="android:windowTitleBackgroundStyle">@style/2131951634</item>
+        <item name="android:windowAnimationStyle">@style/2131951619</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateVisible|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/2131952150</item>
+        <item name="android:buttonBarStyle">@style/2131952156</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="2130969106">24dp</item>
+        <item name="2130969107">24dp</item>
+        <item name="2130969390">false</item>
+        <item name="2130969392">true</item>
+    </style>
+    <style name="2131951763">
+        <item name="android:colorBackground">?attr/2130968802</item>
+        <item name="android:windowBackground">@drawable/2131230746</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@style/2131951878</item>
+        <item name="android:windowTitleBackgroundStyle">@style/2131951634</item>
+        <item name="android:windowAnimationStyle">@style/2131951619</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateVisible|adjustResize</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:borderlessButtonStyle">@style/2131952150</item>
+        <item name="android:buttonBarStyle">@style/2131952156</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="2130969106">24dp</item>
+        <item name="2130969107">24dp</item>
+        <item name="2130969390">false</item>
+        <item name="2130969392">true</item>
+        <item name="2130969393">@null</item>
+        <item name="2130969394">@null</item>
+        <item name="2130969395">@null</item>
+        <item name="2130969396">@null</item>
+    </style>
+    <style name="2131951766">
+        <item name="android:paddingLeft">@dimen/2131165188</item>
+        <item name="android:paddingRight">@dimen/2131165187</item>
+        <item name="android:minHeight">?attr/2130968580</item>
+        <item name="2130968697">30</item>
+        <item name="2130968796">@string/2131886106</item>
+        <item name="2130968797">?attr/2130968976</item>
+        <item name="2130968833">16dp</item>
+        <item name="2130968834">@dimen/2131165185</item>
+        <item name="2130969148">@dimen/2131165186</item>
+        <item name="2130969272">@style/2131952013</item>
+        <item name="2130969359">4dp</item>
+        <item name="2130969365">@style/2131952014</item>
+    </style>
+    <style name="2131951767">
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="2130968588">@style/2131952143</item>
+        <item name="2130968606">@style/2131952145</item>
+        <item name="2130968630">@null</item>
+        <item name="2130968637">@null</item>
+        <item name="2130968638">@null</item>
+        <item name="2130968829">@dimen/2131165184</item>
+        <item name="2130968833">@dimen/2131165184</item>
+        <item name="2130968834">@dimen/2131165185</item>
+        <item name="2130968873">8</item>
+        <item name="2130968874">?attr/2130968877</item>
+        <item name="2130968893">@dimen/2131165189</item>
+        <item name="2130968962">?attr/2130968580</item>
+        <item name="2130969197">?attr/2130968579</item>
+        <item name="2130969274">@style/2131951957</item>
+        <item name="2130969367">@style/2131951959</item>
+    </style>
+    <style name="2131951768">
+        <item name="2130968630">?attr/2130968815</item>
+        <item name="2130968637">?attr/2130968815</item>
+        <item name="2130968638">?attr/2130968815</item>
+    </style>
+    <style name="2131951769">
+        <item name="2130968874">?attr/2130968577</item>
+        <item name="2130968876">8dp</item>
+        <item name="2130969233">2</item>
+    </style>
+    <style name="2131951770">
+    </style>
+    <style name="2131951771">
+    </style>
+    <style name="2131951772">
+    </style>
+    <style name="2131951773">
+        <item name="android:minWidth">56dp</item>
+    </style>
+    <style name="2131951774">
+        <item name="android:src">@null</item>
+        <item name="2130969250">@drawable/2131230755</item>
+    </style>
+    <style name="2131951775">
+        <item name="2130968630">?attr/2130968593</item>
+        <item name="2130968637">?attr/2130968603</item>
+        <item name="2130968795">@layout/2131558405</item>
+        <item name="2130968962">?attr/2130968580</item>
+        <item name="2130969274">@style/2131951961</item>
+        <item name="2130969367">@style/2131951963</item>
+    </style>
+    <style name="2131951776">
+        <item name="android:gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:background">?unknown_ref: 7f080007</item>
+        <item name="2130968874">?attr/2130968877</item>
+        <item name="2130968876">6dp</item>
+        <item name="2130969233">2</item>
+    </style>
+    <style name="2131951777">
+        <item name="android:background">?attr/2130968890</item>
+    </style>
+    <style name="2131951778">
+    </style>
+    <style name="2131951779">
+    </style>
+    <style name="2131951780">
+        <item name="android:textColor">@color/2131099650</item>
+    </style>
+    <style name="2131951781">
+        <item name="android:minWidth">64dp</item>
+        <item name="android:minHeight">@dimen/2131165200</item>
+    </style>
+    <style name="2131951782">
+        <item name="android:textAppearance">@style/2131951967</item>
+        <item name="android:background">@drawable/2131230734</item>
+    </style>
+    <style name="2131951783">
+    </style>
+    <style name="2131951784">
+    </style>
+    <style name="2131951785">
+    </style>
+    <style name="2131951786">
+    </style>
+    <style name="2131951787">
+    </style>
+    <style name="2131951788">
+        <item name="android:background">?attr/2130968841</item>
+        <item name="android:textOn">@string/2131886087</item>
+        <item name="android:textOff">@string/2131886086</item>
+        <item name="android:thumb">@drawable/2131230796</item>
+        <item name="2130969235">false</item>
+        <item name="2130969280">@dimen/2131165243</item>
+        <item name="2130969282">@style/2131951973</item>
+        <item name="2130969375">?unknown_ref: 7f08004d</item>
+    </style>
+    <style name="2131951790">
+        <item name="?0x7f04002e">8dp</item>
+        <item name="?0x7f04002f">16dp</item>
+        <item name="?0x7f0400e0">?android:attr/textColorSecondary</item>
+        <item name="?0x7f04029e">true</item>
+        <item name="?0x7f0402fe">2dp</item>
+    </style>
+    <style name="2131951791">
+    </style>
+    <style name="2131951792">
+        <item name="android:background">?attr/2130968890</item>
+    </style>
+    <style name="2131951793">
+    </style>
+    <style name="2131951794">
+        <item name="2130968588">@style/2131952173</item>
+        <item name="2130968606">@style/2131952175</item>
+    </style>
+    <style name="2131951795">
+        <item name="2130968630">?attr/2130968815</item>
+        <item name="2130968637">?attr/2130968815</item>
+        <item name="2130968638">?attr/2130968815</item>
+    </style>
+    <style name="2131951796">
+    </style>
+    <style name="2131951797">
+    </style>
+    <style name="2131951799">
+    </style>
+    <style name="2131951800">
+    </style>
+    <style name="2131951801">
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="2131951802">
+        <item name="2130969269">@drawable/2131230749</item>
+    </style>
+    <style name="2131951803">
+    </style>
+    <style name="2131951804">
+    </style>
+    <style name="2131951805">
+    </style>
+    <style name="2131951806">
+    </style>
+    <style name="2131951807">
+    </style>
+    <style name="2131951808">
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:overlapAnchor">true</item>
+    </style>
+    <style name="2131951810">
+    </style>
+    <style name="2131951811">
+    </style>
+    <style name="2131951812">
+    </style>
+    <style name="2131951813">
+        <item name="android:maxHeight">36dp</item>
+        <item name="android:indeterminateDrawable">@drawable/2131230783</item>
+        <item name="android:progressDrawable">@drawable/2131230783</item>
+        <item name="android:minHeight">36dp</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="2131951814">
+        <item name="android:maxHeight">16dp</item>
+        <item name="android:indeterminateDrawable">@drawable/2131230785</item>
+        <item name="android:progressDrawable">@drawable/2131230785</item>
+        <item name="android:minHeight">16dp</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+    </style>
+    <style name="2131951815">
+        <item name="2130968788">@drawable/2131230750</item>
+        <item name="2130968824">?unknown_ref: 7f08001f</item>
+        <item name="2130968957">@drawable/2131230752</item>
+        <item name="2130969027">@layout/2131558425</item>
+        <item name="2130969206">@drawable/2131230811</item>
+        <item name="2130969220">@drawable/2131230759</item>
+        <item name="2130969221">@drawable/2131230759</item>
+        <item name="2130969270">@drawable/2131230811</item>
+        <item name="2130969278">@layout/2131558424</item>
+        <item name="2130969388">@drawable/2131230766</item>
+    </style>
+    <style name="2131951816">
+        <item name="2130968868">@string/2131886098</item>
+        <item name="2130969206">@null</item>
+        <item name="2130969220">@null</item>
+        <item name="2130969270">@null</item>
+    </style>
+    <style name="2131951817">
+    </style>
+    <style name="2131951819">
+    </style>
+    <style name="2131951821">
+    </style>
+    <style name="2131951822">
+    </style>
+    <style name="2131951823">
+    </style>
+    <style name="2131951824">
+    </style>
+    <style name="2131951825">
+        <item name="android:background">@null</item>
+        <item name="2130969286">@null</item>
+        <item name="2130969288">@drawable/2131231186</item>
+        <item name="2130969289">@integer/2131427340</item>
+        <item name="2130969290">?attr/2130968801</item>
+        <item name="2130969292">@null</item>
+        <item name="2130969295">@dimen/2131165322</item>
+        <item name="2130969300">12dp</item>
+        <item name="2130969301">12dp</item>
+        <item name="2130969303">?attr/2130968805</item>
+        <item name="2130969306">@style/2131951995</item>
+        <item name="2130969307">@null</item>
+        <item name="2130969308">false</item>
+    </style>
+    <style name="2131951828">
+        <item name="android:textAppearance">?unknown_attr_ref: 7f0402e0</item>
+        <item name="android:textColor">@color/2131099828</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:text">@null</item>
+        <item name="android:checkable">false</item>
+        <item name="android:stateListAnimator">@animator/2130837513</item>
+        <item name="2130968762">@drawable/2131231155</item>
+        <item name="2130968765">true</item>
+        <item name="2130968767">@color/2131099824</item>
+        <item name="2130968769">6dp</item>
+        <item name="2130968771">@null</item>
+        <item name="2130968773">24dp</item>
+        <item name="2130968775">true</item>
+        <item name="2130968776">32dp</item>
+        <item name="2130968777">48dp</item>
+        <item name="2130968782">4dp</item>
+        <item name="2130968783">?attr/2130968813</item>
+        <item name="2130968784">0dp</item>
+        <item name="2130968786">@color/2131099827</item>
+        <item name="2130968788">@drawable/2131231156</item>
+        <item name="2130968790">2dp</item>
+        <item name="2130968791">18dp</item>
+        <item name="2130968792">2dp</item>
+        <item name="2130968793">@color/2131099825</item>
+        <item name="2130968794">true</item>
+        <item name="2130968903">true</item>
+        <item name="2130968904">true</item>
+        <item name="2130968905">true</item>
+        <item name="2130968981">0dp</item>
+        <item name="2130968985">0dp</item>
+        <item name="2130969215">@color/2131099826</item>
+        <item name="2130969227">?unknown_attr_ref: 7f04028f</item>
+        <item name="2130969230">@style/2131951907</item>
+        <item name="2130969335">6dp</item>
+        <item name="2130969338">8dp</item>
+    </style>
+    <style name="2131951833">
+        <item name="2130968959">@color/2131099804</item>
+        <item name="2130968960">@dimen/2131165488</item>
+        <item name="2130969023">@style/2131952318</item>
+        <item name="2130969343">@color/2131099807</item>
+        <item name="2130969344">@dimen/2131165492</item>
+        <item name="2130969345">@dimen/2131165493</item>
+        <item name="2130969350">@color/2131099802</item>
+        <item name="2130969351">@color/2131099805</item>
+        <item name="2130969377">@color/2131099803</item>
+        <item name="2130969378">@color/2131099806</item>
+        <item name="2130969379">@dimen/2131165494</item>
+    </style>
+    <style name="2131951837">
+    </style>
+    <style name="2131951838">
+    </style>
+    <style name="2131951839">
+    </style>
+    <style name="2131951840">
+    </style>
+    <style name="2131951841">
+    </style>
+    <style name="2131951844">
+        <item name="2130968801">@color/2131099697</item>
+        <item name="2130968815">@color/2131099698</item>
+        <item name="2130968816">@color/2131099699</item>
+    </style>
+    <style name="2131951845">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="2131951857">
+        <item name="android:minWidth">200dp</item>
+        <item name="android:progressTint">@color/2131099761</item>
+        <item name="android:progressBackgroundTint">@color/2131099773</item>
+    </style>
+    <style name="2131951858">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">@color/2131099767</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+    <style name="2131951860">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">@color/2131099767</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+    <style name="2131951861">
+        <item name="android:layout_marginLeft">26dp</item>
+        <item name="android:layout_marginTop">28dp</item>
+        <item name="android:layout_marginRight">26dp</item>
+    </style>
+    <style name="2131951862">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">@color/2131099767</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+        <item name="android:layout_marginTop">28dp</item>
+    </style>
+    <style name="2131951863">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/2131099766</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">24dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+    <style name="2131951864">
+    </style>
+    <style name="2131951865">
+    </style>
+    <style name="2131951870">
+        <item name="android:colorControlNormal">?attr/2130968806</item>
+        <item name="android:colorControlActivated">?attr/2130968804</item>
+        <item name="android:colorButtonNormal">?attr/2130968803</item>
+        <item name="android:colorControlHighlight">?attr/2130968805</item>
+        <item name="android:colorPrimary">?attr/2130968815</item>
+        <item name="android:colorPrimaryDark">?attr/2130968816</item>
+        <item name="android:colorAccent">?attr/2130968801</item>
+    </style>
+    <style name="2131951871">
+    </style>
+    <style name="2131951872">
+    </style>
+    <style name="2131951873">
+        <item name="android:textColorHintInverse">@color/2131099654</item>
+        <item name="android:textColorHint">@color/2131099653</item>
+        <item name="android:textColorLink">?android:attr/colorAccent</item>
+        <item name="android:buttonBarStyle">?attr/2130968695</item>
+        <item name="android:buttonBarButtonStyle">?attr/2130968691</item>
+        <item name="android:textColorLinkInverse">?android:attr/colorAccent</item>
+    </style>
+    <style name="2131951874">
+        <item name="android:textColorHintInverse">@color/2131099653</item>
+        <item name="android:textColorHint">@color/2131099654</item>
+        <item name="android:textColorLink">?android:attr/colorAccent</item>
+        <item name="android:buttonBarStyle">?attr/2130968695</item>
+        <item name="android:buttonBarButtonStyle">?attr/2130968691</item>
+        <item name="android:textColorLinkInverse">?android:attr/colorAccent</item>
+    </style>
+    <style name="2131951878">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="2131951879">
+        <item name="android:layout_gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:paddingEnd">8dp</item>
+    </style>
+    <style name="2131951881">
+        <item name="android:paddingEnd">16dp</item>
+    </style>
+    <style name="2131951882">
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="2131951883">
+        <item name="android:textAlignment">viewEnd</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="2131951884">
+        <item name="android:layout_marginStart">8dp</item>
+    </style>
+    <style name="2131951885">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="2131951886">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+    <style name="2131951887">
+        <item name="android:paddingStart">@dimen/2131165226</item>
+        <item name="android:paddingEnd">4dp</item>
+    </style>
+    <style name="2131951888">
+        <item name="android:layout_alignParentStart">true</item>
+    </style>
+    <style name="2131951889">
+        <item name="android:layout_toStartOf">@id/2131362028</item>
+    </style>
+    <style name="2131951890">
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="2131951891">
+        <item name="android:layout_toStartOf">@android:id/icon2</item>
+        <item name="android:layout_toEndOf">@android:id/icon1</item>
+    </style>
+    <style name="2131951892">
+        <item name="android:layout_marginStart">@dimen/2131165226</item>
+    </style>
+    <style name="2131951900">
+        <item name="2130968843">@null</item>
+        <item name="2130968849">4dp</item>
+    </style>
+    <style name="2131951907">
+        <item name="2130968849">50%</item>
+    </style>
+    <style name="2131951908">
+        <item name="2130968849">@null</item>
+    </style>
+    <style name="2131951910">
+        <item name="2130968849">@dimen/2131165399</item>
+    </style>
+    <style name="2131951912">
+        <item name="2130968849">@dimen/2131165431</item>
+    </style>
+    <style name="2131951927">
+    </style>
+    <style name="2131951928">
+    </style>
+    <style name="2131951929">
+    </style>
+    <style name="2131951930">
+    </style>
+    <style name="2131951931">
+    </style>
+    <style name="2131951932">
+    </style>
+    <style name="2131951942">
+    </style>
+    <style name="2131951943">
+    </style>
+    <style name="2131951947">
+    </style>
+    <style name="2131951948">
+    </style>
+    <style name="2131951951">
+    </style>
+    <style name="2131951953">
+    </style>
+    <style name="2131951955">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131951956">
+    </style>
+    <style name="2131951957">
+    </style>
+    <style name="2131951959">
+    </style>
+    <style name="2131951961">
+    </style>
+    <style name="2131951963">
+    </style>
+    <style name="2131951965">
+    </style>
+    <style name="2131951967">
+    </style>
+    <style name="2131951970">
+    </style>
+    <style name="2131951971">
+    </style>
+    <style name="2131951972">
+    </style>
+    <style name="2131951973">
+    </style>
+    <style name="2131951985">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="2131951986">
+    </style>
+    <style name="2131951987">
+        <item name="android:textColor">@color/2131099742</item>
+    </style>
+    <style name="2131951988">
+        <item name="android:textColor">@color/2131099742</item>
+    </style>
+    <style name="2131951989">
+    </style>
+    <style name="2131951990">
+        <item name="android:textColor">?attr/2130968804</item>
+    </style>
+    <style name="2131951991">
+    </style>
+    <style name="2131951992">
+    </style>
+    <style name="2131951993">
+        <item name="android:textSize">@dimen/2131165321</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="2131951994">
+    </style>
+    <style name="2131951995">
+        <item name="android:textSize">@dimen/2131165324</item>
+        <item name="android:textColor">@color/2131099851</item>
+        <item name="2130969310">true</item>
+    </style>
+    <style name="2131951996">
+        <item name="android:textStyle">@null</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="2130968945">sans-serif-medium</item>
+    </style>
+    <style name="2131951998">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:letterSpacing">0.0179</item>
+        <item name="2130968945">sans-serif</item>
+    </style>
+    <style name="2131952010">
+        <item name="android:textStyle">@null</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="2130968945">sans-serif-medium</item>
+    </style>
+    <style name="2131952011">
+        <item name="android:textColor">?unknown_attr_ref: 7f0400ea</item>
+    </style>
+    <style name="2131952013">
+    </style>
+    <style name="2131952014">
+    </style>
+    <style name="2131952015">
+    </style>
+    <style name="2131952016">
+    </style>
+    <style name="2131952018">
+    </style>
+    <style name="2131952028">
+    </style>
+    <style name="2131952029">
+    </style>
+    <style name="2131952030">
+    </style>
+    <style name="2131952034">
+        <item name="2130969390">false</item>
+        <item name="2130969399">true</item>
+    </style>
+    <style name="2131952035">
+        <item name="2130969390">false</item>
+        <item name="2130969399">true</item>
+    </style>
+    <style name="2131952036">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="2131952040">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@style/2131951622</item>
+        <item name="2130968674">@style/2131952215</item>
+    </style>
+    <style name="2131952093">
+    </style>
+    <style name="2131952094">
+    </style>
+    <style name="2131952095">
+    </style>
+    <style name="2131952098">
+    </style>
+    <style name="2131952099">
+    </style>
+    <style name="2131952100">
+    </style>
+    <style name="2131952101">
+    </style>
+    <style name="2131952139">
+    </style>
+    <style name="2131952140">
+    </style>
+    <style name="2131952141">
+    </style>
+    <style name="2131952142">
+    </style>
+    <style name="2131952143">
+    </style>
+    <style name="2131952144">
+    </style>
+    <style name="2131952145">
+    </style>
+    <style name="2131952146">
+    </style>
+    <style name="2131952147">
+    </style>
+    <style name="2131952148">
+    </style>
+    <style name="2131952149">
+    </style>
+    <style name="2131952150">
+    </style>
+    <style name="2131952151">
+    </style>
+    <style name="2131952152">
+    </style>
+    <style name="2131952153">
+    </style>
+    <style name="2131952154">
+    </style>
+    <style name="2131952155">
+    </style>
+    <style name="2131952156">
+    </style>
+    <style name="2131952157">
+    </style>
+    <style name="2131952158">
+    </style>
+    <style name="2131952159">
+    </style>
+    <style name="2131952160">
+        <item name="?0x7f0400e0">?attr/2130968806</item>
+    </style>
+    <style name="2131952161">
+    </style>
+    <style name="2131952162">
+    </style>
+    <style name="2131952163">
+    </style>
+    <style name="2131952165">
+    </style>
+    <style name="2131952167">
+    </style>
+    <style name="2131952169">
+    </style>
+    <style name="2131952171">
+    </style>
+    <style name="2131952173">
+    </style>
+    <style name="2131952175">
+    </style>
+    <style name="2131952182">
+    </style>
+    <style name="2131952183">
+    </style>
+    <style name="2131952184">
+    </style>
+    <style name="2131952185">
+    </style>
+    <style name="2131952186">
+    </style>
+    <style name="2131952187">
+    </style>
+    <style name="2131952188">
+    </style>
+    <style name="2131952189">
+    </style>
+    <style name="2131952190">
+    </style>
+    <style name="2131952191">
+    </style>
+    <style name="2131952192">
+    </style>
+    <style name="2131952194">
+    </style>
+    <style name="2131952195">
+    </style>
+    <style name="2131952196">
+    </style>
+    <style name="2131952197">
+    </style>
+    <style name="2131952198">
+    </style>
+    <style name="2131952199">
+    </style>
+    <style name="2131952200">
+    </style>
+    <style name="2131952201">
+    </style>
+    <style name="2131952203">
+    </style>
+    <style name="2131952204">
+    </style>
+    <style name="2131952205">
+    </style>
+    <style name="2131952207">
+    </style>
+    <style name="2131952208">
+    </style>
+    <style name="2131952209">
+    </style>
+    <style name="2131952210">
+    </style>
+    <style name="2131952213">
+        <item name="android:background">?attr/2130968815</item>
+        <item name="android:stateListAnimator">@animator/2130837504</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+    </style>
+    <style name="2131952214">
+        <item name="2130968893">@dimen/2131165285</item>
+        <item name="2130968903">false</item>
+        <item name="2130968904">false</item>
+        <item name="2130968997">?attr/2130969225</item>
+        <item name="2130969000">true</item>
+        <item name="2130969002">@dimen/2131165287</item>
+        <item name="2130969024">-1</item>
+    </style>
+    <style name="2131952215">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:elevation">@dimen/2131165294</item>
+        <item name="2130968639">?android:attr/colorBackground</item>
+        <item name="2130968664">true</item>
+        <item name="2130968666">-1</item>
+        <item name="2130968668">false</item>
+        <item name="2130968903">false</item>
+        <item name="2130969227">@null</item>
+        <item name="2130969230">@null</item>
+    </style>
+    <style name="2131952216">
+        <item name="2130968918">32dp</item>
+        <item name="2130969266">?attr/2130968816</item>
+    </style>
+    <style name="2131952217">
+        <item name="android:background">@drawable/2131230868</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="2130968639">?attr/2130968801</item>
+        <item name="2130968669">@dimen/2131165296</item>
+        <item name="2130968893">@dimen/2131165297</item>
+        <item name="2130968932">-1</item>
+        <item name="2130968967">@animator/2130837505</item>
+        <item name="2130968979">@dimen/2131165301</item>
+        <item name="2130969150">@dimen/2131165298</item>
+        <item name="2130969203">@dimen/2131165302</item>
+        <item name="2130969215">?attr/2130968805</item>
+        <item name="2130969234">@animator/2130837506</item>
+    </style>
+    <style name="2131952218">
+        <item name="android:background">?android:attr/windowBackground</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:maxWidth">@dimen/2131165308</item>
+        <item name="2130968893">@dimen/2131165303</item>
+        <item name="2130968999">@dimen/2131165306</item>
+        <item name="2130969001">@dimen/2131165307</item>
+    </style>
+    <style name="2131952219">
+        <item name="2130968994">#0000</item>
+    </style>
+    <style name="2131952220">
+        <item name="android:background">@drawable/2131230872</item>
+        <item name="android:paddingLeft">@dimen/2131165318</item>
+        <item name="android:paddingRight">@dimen/2131165318</item>
+        <item name="android:maxWidth">@dimen/2131165316</item>
+        <item name="android:minWidth">@dimen/2131165317</item>
+        <item name="2130968609">@dimen/2131165312</item>
+        <item name="2130968619">@null</item>
+        <item name="2130968893">@dimen/2131165314</item>
+        <item name="2130969147">@dimen/2131165311</item>
+    </style>
+    <style name="2131952221">
+        <item name="2130969285">@null</item>
+        <item name="2130969291">true</item>
+        <item name="2130969297">1</item>
+    </style>
+    <style name="2131952222">
+        <item name="2130968676">@null</item>
+        <item name="2130968682">@color/2131099715</item>
+        <item name="2130968856">@style/2131951987</item>
+        <item name="2130968857">@null</item>
+        <item name="2130968858">@style/2131951986</item>
+        <item name="2130968859">@null</item>
+        <item name="2130968901">@color/2131099750</item>
+        <item name="2130968903">false</item>
+        <item name="2130968904">false</item>
+        <item name="2130968909">@null</item>
+        <item name="2130968912">@style/2131951988</item>
+        <item name="2130968913">@null</item>
+        <item name="2130968965">@style/2131951989</item>
+        <item name="2130968966">@null</item>
+        <item name="2130968974">@style/2131951990</item>
+        <item name="2130968975">@null</item>
+        <item name="2130969146">@style/2131952101</item>
+        <item name="2130969183">@string/2131886255</item>
+        <item name="2130969184">@drawable/2131230871</item>
+        <item name="2130969186">@color/2131099750</item>
+        <item name="2130969189">@style/2131951991</item>
+        <item name="2130969190">@null</item>
+        <item name="2130969200">@style/2131951992</item>
+        <item name="2130969201">@null</item>
+        <item name="2130969227">@null</item>
+        <item name="2130969230">@null</item>
+        <item name="2130969256">@color/2131099750</item>
+        <item name="2130969276">@style/2131951994</item>
+        <item name="2130969277">@null</item>
+    </style>
+    <style name="2131952235">
+        <item name="android:minHeight">@dimen/2131165372</item>
+        <item name="2130968639">?attr/2130968822</item>
+        <item name="2130968893">8dp</item>
+        <item name="2130968903">true</item>
+        <item name="2130968928">@dimen/2131165369</item>
+        <item name="2130968929">@dimen/2131165370</item>
+        <item name="2130968930">@dimen/2131165371</item>
+        <item name="2130969148">@dimen/2131165372</item>
+        <item name="2130969174">true</item>
+        <item name="2130969176">true</item>
+        <item name="2130969177">true</item>
+    </style>
+    <style name="2131952243">
+        <item name="android:textAppearance">?unknown_attr_ref: 7f0402e1</item>
+        <item name="android:textColor">@color/2131099818</item>
+        <item name="android:paddingLeft">@dimen/2131165385</item>
+        <item name="android:paddingTop">@dimen/2131165387</item>
+        <item name="android:paddingRight">@dimen/2131165386</item>
+        <item name="android:paddingBottom">@dimen/2131165384</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetTop">@dimen/2131165382</item>
+        <item name="android:insetBottom">@dimen/2131165382</item>
+        <item name="android:stateListAnimator">@animator/2130837510</item>
+        <item name="2130968639">@color/2131099812</item>
+        <item name="2130968848">@null</item>
+        <item name="2130968893">@dimen/2131165377</item>
+        <item name="2130968903">true</item>
+        <item name="2130968904">true</item>
+        <item name="2130968983">@dimen/2131165381</item>
+        <item name="2130968986">@color/2131099818</item>
+        <item name="2130969215">@color/2131099813</item>
+        <item name="2130969227">?unknown_attr_ref: 7f04028f</item>
+    </style>
+    <style name="2131952247">
+        <item name="android:textColor">@color/2131099853</item>
+        <item name="android:paddingLeft">@dimen/2131165391</item>
+        <item name="android:paddingRight">@dimen/2131165392</item>
+        <item name="2130968639">@color/2131099815</item>
+        <item name="2130968983">@dimen/2131165390</item>
+        <item name="2130968986">@color/2131099853</item>
+        <item name="2130969215">@color/2131099816</item>
+    </style>
+    <style name="2131952253">
+        <item name="android:stateListAnimator">@animator/2130837511</item>
+        <item name="2130968893">0dp</item>
+    </style>
+    <style name="2131952255">
+        <item name="android:stateListAnimator">@animator/2130837512</item>
+        <item name="2130968705">?attr/2130968822</item>
+        <item name="2130968706">@null</item>
+        <item name="2130968707">@dimen/2131165440</item>
+        <item name="2130968708">@color/2131099822</item>
+        <item name="2130968762">@drawable/2131231153</item>
+        <item name="2130968764">?attr/2130968815</item>
+        <item name="2130968903">true</item>
+        <item name="2130969215">@color/2131099823</item>
+        <item name="2130969227">?unknown_attr_ref: 7f04028d</item>
+    </style>
+    <style name="2131952257">
+        <item name="2130968794">false</item>
+    </style>
+    <style name="2131952261">
+        <item name="2130968779">8dp</item>
+        <item name="2130969239">false</item>
+        <item name="2130969240">false</item>
+    </style>
+    <style name="2131952262">
+        <item name="android:minWidth">?unknown_attr_ref: 7f040241</item>
+        <item name="android:minHeight">?unknown_attr_ref: 7f040241</item>
+        <item name="2130968903">true</item>
+        <item name="2130969385">true</item>
+    </style>
+    <style name="2131952263">
+        <item name="android:minWidth">?unknown_attr_ref: 7f040241</item>
+        <item name="android:minHeight">?unknown_attr_ref: 7f040241</item>
+        <item name="2130968903">true</item>
+        <item name="2130969385">true</item>
+    </style>
+    <style name="2131952264">
+        <item name="android:minWidth">?unknown_attr_ref: 7f040241</item>
+        <item name="android:minHeight">?unknown_attr_ref: 7f040241</item>
+        <item name="2130968903">true</item>
+        <item name="2130969385">true</item>
+    </style>
+    <style name="2131952265">
+        <item name="android:textColor">@color/2131099834</item>
+        <item name="android:paddingLeft">@dimen/2131165459</item>
+        <item name="android:paddingTop">@dimen/2131165461</item>
+        <item name="android:paddingRight">@dimen/2131165453</item>
+        <item name="android:paddingBottom">@dimen/2131165448</item>
+        <item name="android:minWidth">@dimen/2131165458</item>
+        <item name="android:minHeight">@dimen/2131165457</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingStart">@dimen/2131165459</item>
+        <item name="android:paddingEnd">@dimen/2131165453</item>
+        <item name="android:stateListAnimator">@animator/2130837517</item>
+        <item name="2130968639">@color/2131099833</item>
+        <item name="2130968893">@dimen/2131165452</item>
+        <item name="2130968983">@dimen/2131165456</item>
+        <item name="2130968984">@dimen/2131165455</item>
+        <item name="2130968986">@color/2131099834</item>
+        <item name="2130969215">@color/2131099835</item>
+        <item name="2130969230">@style/2131951908</item>
+    </style>
+    <style name="2131952266">
+        <item name="android:gravity">right|center_horizontal|clip_horizontal</item>
+        <item name="android:paddingLeft">@dimen/2131165460</item>
+        <item name="android:paddingRight">@dimen/2131165454</item>
+        <item name="android:paddingStart">@dimen/2131165460</item>
+        <item name="android:paddingEnd">@dimen/2131165454</item>
+    </style>
+    <style name="2131952269">
+        <item name="2130969240">false</item>
+    </style>
+    <style name="2131952270">
+        <item name="android:windowFullscreen">false</item>
+        <item name="2130968863">@style/2131952272</item>
+        <item name="2130968864">@style/2131952273</item>
+        <item name="2130968865">@style/2131952271</item>
+        <item name="2130968866">@style/2131952274</item>
+        <item name="2130969209">@color/2131099821</item>
+        <item name="2130969227">?unknown_attr_ref: 7f04028d</item>
+        <item name="2130969400">@style/2131952286</item>
+        <item name="2130969401">@style/2131952285</item>
+        <item name="2130969402">@style/2131952287</item>
+    </style>
+    <style name="2131952271">
+        <item name="android:height">@dimen/2131165400</item>
+        <item name="android:width">@dimen/2131165404</item>
+        <item name="android:insetLeft">@dimen/2131165401</item>
+        <item name="android:insetRight">@dimen/2131165401</item>
+        <item name="android:insetTop">@dimen/2131165403</item>
+        <item name="android:insetBottom">@dimen/2131165403</item>
+        <item name="2130969008">@style/2131951910</item>
+    </style>
+    <style name="2131952272">
+        <item name="2130969016">0dp</item>
+        <item name="2130969020">@color/2131099799</item>
+    </style>
+    <style name="2131952273">
+        <item name="2130968998">?attr/2130968815</item>
+        <item name="2130969016">0dp</item>
+        <item name="2130969020">?unknown_attr_ref: 7f0400ea</item>
+    </style>
+    <style name="2131952274">
+        <item name="2130969015">@color/2131099800</item>
+        <item name="2130969016">@dimen/2131165402</item>
+    </style>
+    <style name="2131952284">
+        <item name="2130968998">@android:color/transparent</item>
+        <item name="2130969007">?unknown_attr_ref: 7f04028f</item>
+        <item name="2130969015">@color/2131099820</item>
+        <item name="2130969016">1dp</item>
+        <item name="2130969020">@color/2131099800</item>
+    </style>
+    <style name="2131952285">
+        <item name="android:height">@dimen/2131165432</item>
+        <item name="android:width">@dimen/2131165435</item>
+        <item name="android:insetLeft">@dimen/2131165433</item>
+        <item name="android:insetRight">@dimen/2131165433</item>
+        <item name="android:insetTop">@dimen/2131165434</item>
+        <item name="android:insetBottom">@dimen/2131165434</item>
+        <item name="2130969008">@style/2131951912</item>
+    </style>
+    <style name="2131952286">
+        <item name="2130968998">?attr/2130968815</item>
+        <item name="2130969015">?unknown_attr_ref: 7f0400ea</item>
+        <item name="2130969016">0dp</item>
+        <item name="2130969020">?unknown_attr_ref: 7f0400ea</item>
+    </style>
+    <style name="2131952287">
+        <item name="2130969015">@color/2131099800</item>
+        <item name="2130969016">@dimen/2131165402</item>
+    </style>
+    <style name="2131952293">
+        <item name="2130969267">?attr/2130968801</item>
+    </style>
+    <style name="2131952294">
+        <item name="android:background">?attr/2130968841</item>
+    </style>
+    <style name="2131952314">
+        <item name="android:minHeight">@dimen/2131165512</item>
+        <item name="2130969148">@dimen/2131165512</item>
+        <item name="2130969272">?unknown_attr_ref: 7f0402f3</item>
+        <item name="2130969273">?android:attr/textColorSecondary</item>
+        <item name="2130969365">?unknown_attr_ref: 7f0402e8</item>
+        <item name="2130969366">?android:attr/textColorPrimary</item>
+    </style>
+    <style name="2131952318">
+        <item name="android:textAppearance">@style/2131952011</item>
+        <item name="android:padding">@dimen/2131165517</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:minWidth">@dimen/2131165516</item>
+        <item name="android:minHeight">@dimen/2131165515</item>
+        <item name="2130969227">@style/2131951900</item>
+    </style>
+    <style name="2131952319">
+        <item name="2130969264">#000000</item>
+    </style>
+    <style name="2131952320">
+        <item name="android:fontFamily">@font/2131296256</item>
+        <item name="2130968801">@color/2131099953</item>
+        <item name="2130968815">@color/2131099865</item>
+        <item name="2130968816">@color/2131099699</item>
+        <item name="2130968945">@font/2131296256</item>
+        <item name="?0x7f04033b">?unknown_ref: 7f0801a5</item>
+    </style>
+    <style name="2131952321">
+        <item name="android:windowBackground">@color/2131099903</item>
+        <item name="2130969390">false</item>
+        <item name="2130969392">true</item>
+        <item name="2130969399">true</item>
+    </style>
+    <style name="2131952322">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/2131099946</item>
+        <item name="2130968639">?attr/2130968815</item>
+    </style>
+    <style name="2131952323">
+        <item name="?0x7f04033b">@drawable/2131231212</item>
+    </style>
+    <style name="2131952325">
+    </style>
+    <style name="2131952331">
+        <item name="android:textSize">@dimen/2131165673</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">@color/2131099980</item>
+        <item name="android:lineSpacingMultiplier">1.5</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131952332">
+        <item name="android:textColor">@color/2131099978</item>
+    </style>
+    <style name="2131952333">
+        <item name="?0x7f04033b">@drawable/2131231213</item>
+    </style>
+    <style name="2131952334">
+    </style>
+    <style name="2131952335">
+        <item name="android:textAppearance">@style/2131952336</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:paddingLeft">@dimen/2131165557</item>
+        <item name="android:paddingTop">@dimen/2131165558</item>
+        <item name="android:paddingRight">@dimen/2131165556</item>
+        <item name="android:layout_marginBottom">@dimen/2131165555</item>
+    </style>
+    <style name="2131952336">
+        <item name="android:textColor">?attr/2130968815</item>
+    </style>
+    <style name="2131952337">
+        <item name="android:textAppearance">@style/2131951951</item>
+        <item name="android:textColor">@color/2131099931</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:paddingLeft">@dimen/2131165562</item>
+        <item name="android:paddingTop">@dimen/2131165563</item>
+        <item name="android:paddingRight">@dimen/2131165561</item>
+        <item name="android:paddingBottom">@dimen/2131165560</item>
+    </style>
+    <style name="2131952338">
+        <item name="android:textAppearance">@style/2131952339</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:paddingLeft">@dimen/2131165566</item>
+        <item name="android:paddingTop">@dimen/2131165567</item>
+        <item name="android:paddingRight">@dimen/2131165565</item>
+        <item name="android:paddingBottom">@dimen/2131165564</item>
+    </style>
+    <style name="2131952339">
+        <item name="android:textColor">@color/2131099931</item>
+    </style>
+    <style name="2131952340">
+    </style>
+    <style name="2131952341">
+        <item name="android:textAppearance">@style/2131952342</item>
+    </style>
+    <style name="2131952342">
+        <item name="android:textColor">@color/2131099932</item>
+    </style>
+    <style name="2131952343">
+        <item name="android:textAppearance">@style/2131951951</item>
+        <item name="android:textColor">@color/2131099931</item>
+    </style>
+    <style name="2131952344">
+        <item name="android:textAppearance">@style/2131952345</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:paddingLeft">@dimen/2131165571</item>
+        <item name="android:paddingTop">@dimen/2131165572</item>
+        <item name="android:paddingRight">@dimen/2131165570</item>
+        <item name="android:paddingBottom">@dimen/2131165569</item>
+    </style>
+    <style name="2131952345">
+        <item name="android:textColor">@color/2131099932</item>
+    </style>
+    <style name="2131952346">
+        <item name="android:layout_gravity">left|center_horizontal</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_marginLeft">@dimen/2131165595</item>
+        <item name="android:layout_marginRight">@dimen/2131165595</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+        <item name="android:layout_marginStart">@dimen/2131165595</item>
+        <item name="android:layout_marginEnd">@dimen/2131165595</item>
+        <item name="2130968705">@color/2131099935</item>
+        <item name="2130968706">@dimen/2131165596</item>
+        <item name="2130968707">@dimen/2131165597</item>
+        <item name="2130968710">false</item>
+    </style>
+    <style name="2131952347">
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginStart">12dp</item>
+    </style>
+    <style name="2131952348">
+        <item name="android:layout_gravity">left|center_horizontal</item>
+        <item name="android:background">?unknown_ref: 7f0801f8</item>
+        <item name="android:layout_marginRight">72dp</item>
+        <item name="android:layout_marginEnd">72dp</item>
+    </style>
+    <style name="2131952349">
+        <item name="android:layout_marginLeft">2dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginStart">2dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="2130968705">@color/2131099949</item>
+        <item name="2130968706">@dimen/2131165596</item>
+        <item name="2130968707">@dimen/2131165597</item>
+        <item name="2130968710">false</item>
+    </style>
+    <style name="2131952350">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">#89000000</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131952351">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">#dd000000</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131952352">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">#89000000</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131952353">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:foreground">?attr/2130969224</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+    </style>
+    <style name="2131952354">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">#89000000</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131952355">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">@color/2131099937</item>
+        <item name="android:gravity">right|center_horizontal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="2131952356">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">@null</item>
+        <item name="android:textColor">#dd000000</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="2131952357">
+        <item name="android:layout_gravity">right|center_horizontal</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_marginLeft">@dimen/2131165595</item>
+        <item name="android:layout_marginRight">@dimen/2131165595</item>
+        <item name="android:foreground">?android:attr/selectableItemBackground</item>
+        <item name="android:layout_marginStart">@dimen/2131165595</item>
+        <item name="android:layout_marginEnd">@dimen/2131165595</item>
+        <item name="2130968705">@color/2131099949</item>
+        <item name="2130968706">@dimen/2131165596</item>
+        <item name="2130968707">@dimen/2131165597</item>
+        <item name="2130968710">false</item>
+    </style>
+    <style name="2131952358">
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_marginEnd">12dp</item>
+    </style>
+    <style name="2131952359">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/2131099945</item>
+        <item name="android:lines">1</item>
+    </style>
+    <style name="2131952360">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/2131099945</item>
+        <item name="android:lines">1</item>
+    </style>
+    <style name="2131952361">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/2131099945</item>
+        <item name="android:lines">1</item>
+    </style>
+    <style name="2131952362">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/2131099944</item>
+    </style>
+    <style name="2131952363">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/2131099945</item>
+        <item name="android:lines">1</item>
+    </style>
+    <style name="2131952364">
+        <item name="?0x7f04033b">@drawable/2131231213</item>
+    </style>
+    <style name="2131952365">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+    </style>
+    <style name="2131952366">
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:minWidth">280dp</item>
+    </style>
+    <style name="2131952367">
+        <item name="android:layout_width">36dp</item>
+        <item name="android:layout_height">36dp</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="2131952368">
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">clip_horizontal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="2131952369">
+        <item name="android:divider">@color/2131099904</item>
+        <item name="android:dividerHeight">@dimen/2131165546</item>
+    </style>
+    <style name="2131952370">
+        <item name="android:background">@color/2131099905</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/2131165550</item>
+    </style>
+    <style name="2131952371">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/2131165547</item>
+        <item name="android:layout_marginRight">@dimen/2131165548</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="2131952372">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/2131165549</item>
+        <item name="android:maxEms">5</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="2131952373">
+        <item name="android:background">@drawable/2131231246</item>
+        <item name="android:paddingLeft">@dimen/2131165587</item>
+        <item name="android:paddingTop">@dimen/2131165589</item>
+        <item name="android:paddingRight">@dimen/2131165586</item>
+        <item name="android:paddingBottom">@dimen/2131165585</item>
+        <item name="android:layout_marginLeft">@dimen/2131165588</item>
+        <item name="android:layout_marginTop">@dimen/2131165583</item>
+        <item name="android:layout_marginBottom">@dimen/2131165582</item>
+        <item name="android:paddingStart">@dimen/2131165587</item>
+        <item name="android:paddingEnd">@dimen/2131165586</item>
+        <item name="android:layout_marginStart">@dimen/2131165588</item>
+    </style>
+    <style name="2131952374">
+        <item name="android:textColor">@color/2131099931</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="2131952375">
+        <item name="android:background">@color/2131099928</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="2131952376">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="2131952377">
+        <item name="android:layout_gravity">left|center_horizontal|clip_horizontal</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">@dimen/2131165592</item>
+        <item name="android:layout_height">@dimen/2131165592</item>
+    </style>
+    <style name="2131952379">
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style>
+    <style name="2131952380">
+    </style>
+    <style name="2131952381">
+    </style>
+    <style name="2131952382">
+    </style>
+    <style name="2131952383">
+    </style>
+    <style name="2131952384">
+    </style>
+    <style name="2131952385">
+    </style>
+    <style name="2131952386">
+        <item name="android:gravity">top|left|right|center_vertical|center_horizontal|fill_horizontal|center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_margin">@dimen/2131165552</item>
+        <item name="android:src">?unknown_ref: 7f0801eb</item>
+        <item name="android:contentDescription">@string/2131886361</item>
+    </style>
+    <style name="2131952387">
+    </style>
+    <style name="2131952388">
+    </style>
+    <style name="2131952389">
+    </style>
+</resources>

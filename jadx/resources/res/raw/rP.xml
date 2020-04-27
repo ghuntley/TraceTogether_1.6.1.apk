@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item state_window_focused="false" drawable="@android:color/transparent"/>
+    <item state_focused="true" state_enabled="false" state_pressed="true" drawable="0x7f080039"/>
+    <item state_focused="true" state_enabled="false" drawable="0x7f080039"/>
+    <item state_focused="true" state_pressed="true" drawable="@drawable/2131230775"/>
+    <item state_focused="false" state_pressed="true" drawable="@drawable/2131230775"/>
+    <item state_focused="true" drawable="0x7f080033"/>
+</selector>

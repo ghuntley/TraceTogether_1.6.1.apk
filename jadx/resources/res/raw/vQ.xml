@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" background="#f8f8f8" layout_width="match_parent" layout_height="match_parent">
+    <ScrollView layout_width="match_parent" layout_height="0dp" NOT_FOUND_0x26="0" NOT_FOUND_0x28="0" NOT_FOUND_0x2b="0" NOT_FOUND_0x2d="0">
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="wrap_content">
+            <LinearLayout orientation="vertical" id="@+id/2131362445" layout_width="match_parent" layout_height="wrap_content" layout_marginBottom="12dp">
+                <o.C2512 orientation="vertical" background="#e6edf7" paddingLeft="16dp" paddingRight="16dp" paddingBottom="20dp" visibility="visible" layout_width="match_parent" layout_height="wrap_content">
+                    <o.C2967 id="@+id/2131361940" layout_width="match_parent" layout_height="250dp" NOT_FOUND_0x28="0" NOT_FOUND_0x2d="0" NOT_FOUND_0x2e="false" NOT_FOUND_0x2f="false" NOT_FOUND_0x30="@raw/2131820545"/>
+                    <o.C1514 textSize="14sp" textStyle="bold" textColor="#0030a1" id="@+id/2131362423" visibility="invisible" layout_width="wrap_content" layout_height="wrap_content" text="Last update: X:XX XX" NOT_FOUND_0x26="0" NOT_FOUND_0x2b="0"/>
+                </o.C2512>
+                <o.C1514 layout_width="match_parent" layout_height="wrap_content" text="How you can help stop the spread of COVID-19" style="@style/2131951863"/>
+                <o.C1514 layout_width="match_parent" layout_height="wrap_content" text="Keep app open, and let it run in the background until the end of the outbreak" style="@style/2131951858"/>
+            </LinearLayout>
+            <LinearLayout orientation="vertical" id="@+id/2131362447" visibility="gone" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x28="0" NOT_FOUND_0x2b="0" NOT_FOUND_0x2d="0">
+                <LinearLayout orientation="vertical" background="#fff5dc" paddingLeft="32dp" paddingRight="32dp" paddingBottom="20dp" layout_width="match_parent" layout_height="wrap_content">
+                    <ImageView layout_gravity="center" id="@+id/2131362096" paddingLeft="66dp" paddingRight="66dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="25dp" src="0x7f080195"/>
+                    <o.C1514 textSize="16sp" textStyle="bold" textColor="#000000" gravity="center" layout_gravity="center_vertical" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="match_parent" layout_height="match_parent" layout_marginTop="15dp" text="Setup is incomplete!" layout_weight="1"/>
+                    <o.C1514 textSize="16sp" textStyle="normal" textColor="#000000" gravity="center" layout_gravity="center_vertical" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="wrap_content" layout_height="match_parent" text="Help stop the virus spread by allowing all permissions" layout_weight="1"/>
+                    <Button textSize="16sp" textColor="#fff" layout_gravity="center" id="@+id/2131361969" background="@drawable/2131231128" layout_width="wrap_content" layout_height="match_parent" layout_marginLeft="10dp" layout_marginTop="10dp" layout_marginRight="10dp" minWidth="200dp" text="Complete app setup" textAllCaps="false" NOT_FOUND_0x1f="600"/>
+                </LinearLayout>
+                <LinearLayout orientation="vertical" id="@+id/2131362206" background="#00000000" paddingLeft="16dp" paddingRight="16dp" layout_width="match_parent" layout_height="match_parent">
+                    <o.C1514 textSize="16sp" textStyle="bold" textColor="#383838" gravity="left" id="@+id/2131362425" paddingLeft="16dp" paddingRight="16dp" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="16dp" layout_marginBottom="12dp" text="App Permissions Status"/>
+                    <o.C2963 id="@+id/2131361963" layout_width="match_parent" layout_height="wrap_content" layout_marginLeft="0dp" layout_marginRight="0dp" NOT_FOUND_0x20="@color/2131099902" NOT_FOUND_0x21="12dp" NOT_FOUND_0x22="2dp" NOT_FOUND_0x23="true" NOT_FOUND_0x24="true" NOT_FOUND_0x25="0dp">
+                        <LinearLayout gravity="center" layout_gravity="center" orientation="horizontal" background="?android:attr/selectableItemBackground" padding="15dp" layout_width="match_parent" layout_height="match_parent">
+                            <o.C1514 textSize="16sp" textStyle="normal" textColor="#383838" gravity="left|center_vertical|center_horizontal|center" layout_gravity="center" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="wrap_content" layout_height="match_parent" text="Bluetooth: On" layout_weight="1"/>
+                            <ImageView id="@+id/2131362107" background="@drawable/2131231173" clickable="false" layout_width="wrap_content" layout_height="match_parent"/>
+                        </LinearLayout>
+                    </o.C2963>
+                    <o.C2963 id="@+id/2131362132" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x20="@color/2131099902" NOT_FOUND_0x21="12dp" NOT_FOUND_0x22="2dp" NOT_FOUND_0x24="true" NOT_FOUND_0x25="0dp">
+                        <LinearLayout gravity="center" layout_gravity="center" orientation="horizontal" background="?android:attr/selectableItemBackground" padding="15dp" layout_width="match_parent" layout_height="match_parent">
+                            <o.C1514 textSize="16sp" textStyle="normal" textColor="#383838" gravity="left|center_vertical|center_horizontal|center" layout_gravity="center" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="wrap_content" layout_height="match_parent" text="Location Permission: On" layout_weight="1"/>
+                            <ImageView id="@+id/2131362108" clickable="false" layout_width="wrap_content" layout_height="match_parent" src="@drawable/2131231173"/>
+                        </LinearLayout>
+                    </o.C2963>
+                    <o.C2963 id="@+id/2131361954" visibility="visible" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x20="@color/2131099902" NOT_FOUND_0x21="12dp" NOT_FOUND_0x22="2dp" NOT_FOUND_0x24="true" NOT_FOUND_0x25="0dp">
+                        <LinearLayout gravity="center" layout_gravity="center" orientation="horizontal" background="?android:attr/selectableItemBackground" padding="15dp" layout_width="match_parent" layout_height="match_parent">
+                            <o.C1514 textSize="16sp" textStyle="normal" textColor="#383838" gravity="left|center_vertical|center_horizontal|center" layout_gravity="center" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="wrap_content" layout_height="match_parent" text="Battery Optimisation: Off" layout_weight="1"/>
+                            <ImageView id="@+id/2131362106" clickable="false" layout_width="wrap_content" layout_height="match_parent" src="@drawable/2131231173"/>
+                        </LinearLayout>
+                    </o.C2963>
+                    <o.C2963 id="@+id/2131362217" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x20="@color/2131099902" NOT_FOUND_0x21="12dp" NOT_FOUND_0x22="2dp" NOT_FOUND_0x24="true" NOT_FOUND_0x25="0dp">
+                        <LinearLayout gravity="center" layout_gravity="center" orientation="horizontal" background="?android:attr/selectableItemBackground" padding="15dp" layout_width="match_parent" layout_height="match_parent">
+                            <o.C1514 textSize="16sp" textStyle="normal" textColor="#383838" gravity="left|center_vertical|center_horizontal|center" layout_gravity="center" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="wrap_content" layout_height="match_parent" text="Push Notification: On" layout_weight="1"/>
+                            <ImageView id="@+id/2131362109" clickable="false" layout_width="wrap_content" layout_height="match_parent" src="@drawable/2131231173"/>
+                        </LinearLayout>
+                    </o.C2963>
+                </LinearLayout>
+            </LinearLayout>
+            <o.C2963 id="@+id/2131362330" layout_width="match_parent" layout_height="wrap_content" layout_marginLeft="16dp" layout_marginRight="16dp" NOT_FOUND_0x20="@color/2131099778" NOT_FOUND_0x21="12dp" NOT_FOUND_0x22="2dp" NOT_FOUND_0x24="true" NOT_FOUND_0x25="0dp">
+                <LinearLayout gravity="center" layout_gravity="center" orientation="vertical" background="?android:attr/selectableItemBackground" padding="15dp" layout_width="match_parent" layout_height="match_parent">
+                    <o.C1514 textSize="16sp" textStyle="bold" textColor="#003db5" gravity="left|center_vertical|center_horizontal|center" layout_gravity="center_vertical" paddingLeft="12dp" paddingRight="16dp" visibility="visible" layout_width="match_parent" layout_height="match_parent" text="Share this app" drawableLeft="0x7f0801bc" drawablePadding="10dp" layout_weight="1"/>
+                    <o.C1514 textSize="16sp" textStyle="normal" textColor="#383838" gravity="left|center_vertical|center_horizontal|center" layout_gravity="left" paddingLeft="12dp" paddingRight="16dp" visibility="visible" layout_width="wrap_content" layout_height="match_parent" layout_marginLeft="25dp" text="Ask friends and family to help" layout_weight="1"/>
+                </LinearLayout>
+            </o.C2963>
+        </LinearLayout>
+    </ScrollView>
+    <o.C2512 orientation="vertical" id="@+id/2131362438" background="@drawable/2131230818" visibility="gone" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x2c="0" NOT_FOUND_0x2d="0">
+        <o.C1514 textSize="14sp" textColor="#ffffff" textColorLink="#ffffff" linksClickable="true" id="@+id/2131362411" paddingLeft="16dp" paddingTop="16dp" paddingBottom="16dp" clickable="true" layout_width="0dp" layout_height="match_parent" text="No news" NOT_FOUND_0x28="0" NOT_FOUND_0x2a="@+id/2131361967" NOT_FOUND_0x2d="0"/>
+        <ImageButton id="@+id/2131361967" background="#00000000" paddingLeft="8dp" paddingTop="16dp" paddingRight="16dp" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131231138" NOT_FOUND_0x2b="0" NOT_FOUND_0x2d="0"/>
+    </o.C2512>
+    <o.C2512 id="@+id/2131362362" background="#80000000" visibility="gone" layout_width="match_parent" layout_height="match_parent" animateLayoutChanges="true">
+        <o.C2376 orientation="vertical" id="@+id/2131362112" layout_width="wrap_content" layout_height="wrap_content" NOT_FOUND_0x27="0.1"/>
+        <o.C2376 orientation="vertical" id="@+id/2131362296" layout_width="wrap_content" layout_height="wrap_content" NOT_FOUND_0x27="0.9"/>
+        <FrameLayout layout_width="0dp" layout_height="wrap_content" NOT_FOUND_0x26="0" NOT_FOUND_0x29="@+id/2131362112" NOT_FOUND_0x2a="@+id/2131362296" NOT_FOUND_0x2d="0">
+            <include layout="@layout/2131558529"/>
+        </FrameLayout>
+    </o.C2512>
+</o.C2512>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" gravity="top|center_vertical|center_horizontal|center" orientation="vertical" id="@+id/2131362404" layout_width="match_parent" layout_height="wrap_content">
+    <LinearLayout gravity="center_horizontal" orientation="vertical" id="@+id/2131362401" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="24dp">
+        <ImageView layout_gravity="center_horizontal" id="@android:id/icon" layout_width="wrap_content" layout_height="wrap_content" adjustViewBounds="true" maxWidth="24dp" maxHeight="24dp"/>
+        <o.C2718 gravity="center" id="@+id/2131361937" layout_width="match_parent" layout_height="wrap_content" style="?android:attr/windowTitleStyle"/>
+    </LinearLayout>
+    <android.widget.Space id="@+id/2131362400" visibility="gone" layout_width="match_parent" layout_height="8dp"/>
+</LinearLayout>

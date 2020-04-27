@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item state_focused="true" drawable="@drawable/2131230735"/>
+    <item state_pressed="true" drawable="@drawable/2131230735"/>
+    <item drawable="@android:color/transparent"/>
+</selector>

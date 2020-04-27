@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1830 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" id="@+id/2131362269" layout_width="match_parent" layout_height="match_parent">
+    <o.C0882 id="@+id/2131362268" layout_width="match_parent" layout_height="match_parent" fillViewport="true">
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="wrap_content">
+            <androidx.recyclerview.widget.RecyclerView id="@+id/2131362266" layout_width="match_parent" layout_height="0dp" layout_weight="1"/>
+            <ImageView layout_gravity="center_horizontal" id="@+id/2131362273" padding="8dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="24dp" layout_marginBottom="24dp" src="0x7f08020f" contentDescription="Zendesk"/>
+        </LinearLayout>
+    </o.C0882>
+</o.C1830>

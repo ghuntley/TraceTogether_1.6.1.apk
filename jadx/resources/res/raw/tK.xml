@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" exitFadeDuration="@android:integer/config_mediumAnimTime">
+    <item state_enabled="false" drawable="0x7f0801e2"/>
+    <item drawable="0x7f0801e1" state_activated="true"/>
+    <item state_selected="true" drawable="0x7f0801e1"/>
+    <item state_selected="false" drawable="0x7f0801e2"/>
+    <item state_checked="true" drawable="0x7f0801e1"/>
+    <item state_pressed="true" drawable="0x7f0801e1"/>
+    <item state_focused="true" drawable="0x7f0801e1"/>
+    <item drawable="0x7f0801e1"/>
+</selector>

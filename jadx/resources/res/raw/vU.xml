@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" orientation="vertical" background="@drawable/2131230819" layout_width="match_parent" layout_height="match_parent" weightSum="6">
+    <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_weight="5">
+        <LinearLayout layout_width="match_parent" layout_height="40dp" layout_marginLeft="25dp" layout_marginTop="20dp">
+            <LinearLayout id="@+id/2131361952" layout_width="60dp" layout_height="wrap_content">
+                <ImageButton id="@+id/2131361951" background="#00000000" layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131230816" scaleX="0.5" scaleY="0.5"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_marginLeft="30dp" layout_marginRight="30dp" layout_weight="3">
+            <o.C1514 textSize="15sp" layout_width="match_parent" layout_height="wrap_content" text="STEP 2"/>
+            <o.C1514 textSize="18sp" textStyle="bold" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="10dp" text="Enter PIN to upload"/>
+            <EditText textSize="18sp" id="@+id/2131362431" layout_width="match_parent" layout_height="wrap_content" maxLength="6" imeOptions="actionGo"/>
+            <o.C1514 textSize="16sp" textColor="#c20000" id="@+id/2131362034" visibility="invisible" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="5dp" text="Invalid PIN"/>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_marginLeft="30dp" layout_marginTop="30dp" layout_marginRight="30dp" layout_weight="2">
+            <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="wrap_content">
+                <o.C1514 textSize="13sp" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="10dp" text="@string/2131886351"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_weight="1">
+        <Button textSize="18sp" textStyle="normal" textColor="#ffffff" id="@+id/2131361916" background="@drawable/2131231128" layout_width="match_parent" layout_height="50dp" layout_marginLeft="30dp" layout_marginRight="30dp" text="Upload data" textAllCaps="false" fontFamily="@font/2131296256" NOT_FOUND_0x16="600"/>
+    </LinearLayout>
+</LinearLayout>

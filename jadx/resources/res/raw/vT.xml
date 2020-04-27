@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" orientation="vertical" layout_width="match_parent" layout_height="match_parent">
+    <LinearLayout orientation="vertical" background="@drawable/2131230817" layout_width="match_parent" layout_height="match_parent" weightSum="12">
+        <LinearLayout orientation="vertical" id="@+id/2131362403" layout_width="match_parent" layout_height="0dp" layout_marginLeft="30dp" layout_marginTop="50dp" layout_marginRight="30dp" layout_weight="2">
+            <o.C1514 textSize="32sp" textColor="#ffffff" layout_width="match_parent" layout_height="wrap_content" text="For use by MOH" NOT_FOUND_0x12="600"/>
+            <o.C1514 textSize="18sp" textColor="#ffffff" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="5dp" text="Upload data for contact tracing" NOT_FOUND_0x12="600"/>
+        </LinearLayout>
+        <LinearLayout id="@+id/2131362069" layout_width="match_parent" layout_height="0dp" layout_weight="10" NOT_FOUND_0x13="0" NOT_FOUND_0x14="0" NOT_FOUND_0x15="0" NOT_FOUND_0x16="@+id/2131362403">
+            <FrameLayout id="@+id/2131362068" layout_width="match_parent" layout_height="match_parent" layout_marginLeft="30dp" layout_marginRight="30dp"/>
+        </LinearLayout>
+        <TextView gravity="center" id="@+id/2131362063" layout_width="match_parent" layout_height="30dp" text="test"/>
+    </LinearLayout>
+    <FrameLayout id="@+id/2131362130" background="#000000" visibility="invisible" layout_width="match_parent" layout_height="match_parent" animateLayoutChanges="true" alpha="0.5">
+        <ProgressBar layout_gravity="center" id="@+id/2131362129" layout_width="wrap_content" layout_height="wrap_content" style="?android:attr/progressBarStyleLarge"/>
+    </FrameLayout>
+</FrameLayout>

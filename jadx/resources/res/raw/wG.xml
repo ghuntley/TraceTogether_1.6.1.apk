@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" fitsSystemWindows="true" layout_width="match_parent" layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout layout_width="match_parent" layout_height="wrap_content">
+        <o.C2026 theme="@style/2131952095" id="@+id/2131362361" background="?attr/2130968815" layout_width="match_parent" layout_height="?attr/2130968580" NOT_FOUND_0xe="0x7f080202" NOT_FOUND_0xf="@style/2131952100" NOT_FOUND_0x10="@string/2131886325"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <FrameLayout id="@+id/2131362064" focusable="true" layout_width="match_parent" layout_height="match_parent" NOT_FOUND_0xd="@string/2131886114"/>
+    <View id="@+id/2131362360" background="@drawable/2131231240" layout_width="match_parent" layout_height="4dp" NOT_FOUND_0xd="@string/2131886114"/>
+    <include id="@+id/2131362131" visibility="gone" layout="@layout/2131558569"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" id="@+id/2131361995" visibility="gone" layout_width="wrap_content" layout_height="wrap_content" layout_alignParentRight="true" layout_alignParentBottom="true" layout_alignParentEnd="true" accessibilityTraversalBefore="@+id/2131362064" style="@style/2131952386"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

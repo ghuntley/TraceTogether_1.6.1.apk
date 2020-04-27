@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" insetLeft="4dp" insetRight="4dp" insetTop="10dp" insetBottom="7dp">
+    <selector>
+        <item state_enabled="false">
+            <nine-patch src="0x7f080058" tint="?attr/2130968806" alpha="?android:attr/disabledAlpha"/>
+        </item>
+        <item state_focused="false" state_pressed="false">
+            <nine-patch src="0x7f080058" tint="?attr/2130968806"/>
+        </item>
+        <item>
+            <nine-patch src="0x7f080057" tint="?attr/2130968804"/>
+        </item>
+    </selector>
+</inset>

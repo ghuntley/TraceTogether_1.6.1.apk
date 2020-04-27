@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item state_enabled="false" drawable="@drawable/2131230851"/>
+    <item state_focused="true" drawable="@drawable/2131230848"/>
+    <item drawable="@drawable/2131230849"/>
+</selector>

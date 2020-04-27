@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" orientation="vertical" background="@drawable/2131230819" layout_width="match_parent" layout_height="match_parent" weightSum="6">
+    <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_weight="5">
+        <LinearLayout layout_width="match_parent" layout_height="60dp"/>
+        <LinearLayout gravity="top|center_vertical|center_horizontal|center" orientation="vertical" layout_width="match_parent" layout_height="wrap_content" layout_marginLeft="30dp" layout_marginRight="30dp">
+            <ImageView layout_width="wrap_content" layout_height="wrap_content" src="@drawable/2131230874"/>
+            <o.C1514 textSize="18sp" textStyle="bold" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="30dp" layout_marginTop="30dp" layout_marginRight="30dp" text="Your data has been uploaded to MOH" textAlignment="center"/>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_marginLeft="30dp" layout_marginTop="60dp" layout_marginRight="30dp" layout_weight="2">
+            <LinearLayout orientation="horizontal" layout_width="match_parent" layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_weight="1">
+        <Button textSize="18sp" textStyle="normal" textColor="#ffffff" id="@+id/2131361916" background="@drawable/2131231128" layout_width="match_parent" layout_height="50dp" layout_marginLeft="30dp" layout_marginRight="30dp" text="Done" textAllCaps="false" fontFamily="@font/2131296256" NOT_FOUND_0x13="600"/>
+    </LinearLayout>
+</LinearLayout>

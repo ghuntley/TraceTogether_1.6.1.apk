@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1005 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" gravity="top|left|center_vertical|center_horizontal|center|start" orientation="vertical" id="@+id/2131362200" layout_width="match_parent" layout_height="wrap_content">
+    <include layout="@layout/2131558410"/>
+    <FrameLayout id="@+id/2131361998" layout_width="match_parent" layout_height="wrap_content" minHeight="48dp">
+        <View layout_gravity="top" id="@+id/2131362312" background="?attr/2130968805" visibility="gone" layout_width="match_parent" layout_height="1dp"/>
+        <o.C0882 id="@+id/2131362313" clipToPadding="false" layout_width="match_parent" layout_height="wrap_content">
+            <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="wrap_content">
+                <android.widget.Space id="@+id/2131362379" visibility="gone" layout_width="match_parent" layout_height="18dp"/>
+                <TextView id="@android:id/message" paddingLeft="?attr/2130968871" paddingRight="?attr/2130968871" layout_width="match_parent" layout_height="wrap_content" style="@style/2131951951"/>
+                <android.widget.Space id="@+id/2131362378" visibility="gone" layout_width="match_parent" layout_height="18dp"/>
+            </LinearLayout>
+        </o.C0882>
+        <View layout_gravity="bottom" id="@+id/2131362311" background="?attr/2130968805" visibility="gone" layout_width="match_parent" layout_height="1dp"/>
+    </FrameLayout>
+    <FrameLayout id="@+id/2131362003" layout_width="match_parent" layout_height="wrap_content" minHeight="48dp">
+        <FrameLayout id="@+id/2131362002" layout_width="match_parent" layout_height="wrap_content"/>
+    </FrameLayout>
+    <include layout_width="match_parent" layout_height="wrap_content" layout="@layout/2131558408"/>
+</o.C1005>

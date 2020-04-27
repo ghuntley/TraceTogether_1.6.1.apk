@@ -1,0 +1,27 @@
+package zendesk.core;
+
+import android.content.Context;
+import o.C3351dc;
+import o.M;
+
+public final class ZendeskStorageModule_ProvideAdditionalSdkBaseStorageFactory implements M<BaseStorage> {
+    private final C3351dc<Context> contextProvider;
+    private final C3351dc<Serializer> serializerProvider;
+
+    public ZendeskStorageModule_ProvideAdditionalSdkBaseStorageFactory(C3351dc<Context> dcVar, C3351dc<Serializer> dcVar2) {
+        this.contextProvider = dcVar;
+        this.serializerProvider = dcVar2;
+    }
+
+    public final BaseStorage get() {
+        BaseStorage provideAdditionalSdkBaseStorage = ZendeskStorageModule.provideAdditionalSdkBaseStorage(this.contextProvider.get(), this.serializerProvider.get());
+        if (provideAdditionalSdkBaseStorage != null) {
+            return provideAdditionalSdkBaseStorage;
+        }
+        throw new NullPointerException("Cannot return null from a non-@Nullable @Provides method");
+    }
+
+    public static M<BaseStorage> create(C3351dc<Context> dcVar, C3351dc<Serializer> dcVar2) {
+        return new ZendeskStorageModule_ProvideAdditionalSdkBaseStorageFactory(dcVar, dcVar2);
+    }
+}

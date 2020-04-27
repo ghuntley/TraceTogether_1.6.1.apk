@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" focusable="true" clickable="true" layout_width="wrap_content" layout_height="wrap_content" importantForAccessibility="noHideDescendants">
+    <ImageView layout_gravity="center" layout_width="24dp" layout_height="24dp" layout_margin="12dp" src="0x7f0801fb"/>
+    <FrameLayout layout_gravity="top|right|center_vertical|center_horizontal|center|end" id="@+id/2131362223" visibility="gone" layout_width="18dp" layout_height="18dp" layout_marginTop="6dp" layout_marginRight="6dp" layout_marginEnd="6dp">
+        <View layout_gravity="center" id="@+id/2131362224" background="@drawable/2131231229" visibility="gone" layout_width="18dp" layout_height="18dp"/>
+        <TextView textSize="10sp" textStyle="bold" textColor="#ffffff" gravity="center" layout_gravity="center" id="@+id/2131362222" background="@drawable/2131231221" layout_width="14dp" layout_height="14dp" elevation="2dp"/>
+    </FrameLayout>
+</merge>

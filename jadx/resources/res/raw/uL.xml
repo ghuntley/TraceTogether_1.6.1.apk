@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" orientation="vertical" id="@+id/2131362119" background="?attr/2130969224" paddingLeft="16dp" paddingRight="16dp" layout_width="match_parent" layout_height="?attr/2130968889" minWidth="196dp">
+    <LinearLayout duplicateParentState="true" layout_width="wrap_content" layout_height="match_parent">
+        <ImageView layout_gravity="center_vertical" id="@+id/2131362083" duplicateParentState="true" layout_width="32dp" layout_height="32dp" layout_marginRight="8dp"/>
+        <TextView textAppearance="?attr/2130969321" ellipsize="marquee" layout_gravity="center_vertical" id="@+id/2131362399" fadingEdge="horizontal" duplicateParentState="true" layout_width="wrap_content" layout_height="wrap_content" singleLine="true"/>
+    </LinearLayout>
+</LinearLayout>

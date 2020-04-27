@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2933 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" id="@+id/2131362008" fitsSystemWindows="true" layout_width="match_parent" layout_height="match_parent">
+    <include layout="@layout/2131558420"/>
+    <o.C1771 gravity="top" id="@+id/2131361901" layout_width="match_parent" layout_height="wrap_content" layout_alignParentTop="true" touchscreenBlocksFocus="true" NOT_FOUND_0x9="true" style="?attr/2130968582">
+        <o.C2026 id="@+id/2131361899" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0xa="@string/2131886081" style="?attr/2130969370"/>
+        <o.C0308 theme="?attr/2130968586" id="@+id/2131361907" visibility="gone" layout_width="match_parent" layout_height="wrap_content" style="?attr/2130968604"/>
+    </o.C1771>
+</o.C2933>

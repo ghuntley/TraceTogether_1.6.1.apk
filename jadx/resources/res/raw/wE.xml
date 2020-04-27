@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2963 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" layout_width="wrap_content" layout_height="wrap_content" NOT_FOUND_0x7="12dp" NOT_FOUND_0x8="true" NOT_FOUND_0x9="0" NOT_FOUND_0xa="0" NOT_FOUND_0xb="0" NOT_FOUND_0xd="0">
+    <o.C2512 padding="24dp" layout_width="wrap_content" layout_height="wrap_content">
+        <o.C2147 id="@+id/2131362083" layout_width="wrap_content" layout_height="wrap_content" NOT_FOUND_0xa="0" NOT_FOUND_0xd="0" NOT_FOUND_0xe="0x7f0801c0"/>
+        <o.C1514 textStyle="bold" id="@+id/2131362399" padding="0dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="0dp" text="@string/2131886342" NOT_FOUND_0xa="0" NOT_FOUND_0xc="@+id/2131362083" style="@style/2131951863"/>
+        <o.C1514 padding="0dp" layout_width="wrap_content" layout_height="wrap_content" text="SwiftMed (our sister app) is now keeping you and your comrades safe!\10\10Uninstall SwiftMed to resume TraceTogether." NOT_FOUND_0xa="0" NOT_FOUND_0xc="@+id/2131362399" style="@style/2131951858"/>
+    </o.C2512>
+</o.C2963>

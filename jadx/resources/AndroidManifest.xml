@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:versionCode="44" versionName="1.6.1" NOT_FOUND_0x20="29" NOT_FOUND_0x21="10" package="sg.gov.tech.bluetrace" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-sdk minSdkVersion="22" targetSdkVersion="29"/>
+    <uses-feature name="android.hardware.bluetooth_le" required="true"/>
+    <uses-permission name="android.permission.BLUETOOTH"/>
+    <uses-permission name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+    <uses-permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission name="android.permission.INTERNET"/>
+    <uses-permission name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission name="android.permission.WAKE_LOCK"/>
+    <uses-permission name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <uses-permission name="com.google.android.c2dm.permission.RECEIVE"/>
+    <application theme="@style/2131951626" label="@string/2131886110" android:icon="@mipmap/ic_launcher" name="o.lt" allowBackup="false" supportsRtl="true" NOT_FOUND_0x1f="@mipmap/ic_launcher" NOT_FOUND_0x22="androidx.core.app.CoreComponentFactory" android:isSplitRequired="true">
+        <provider name="o.ƫ" exported="false" authorities="sg.gov.tech.bluetrace.fileprovider" grantUriPermissions="true">
+            <meta-data name="android.support.FILE_PROVIDER_PATHS" resource="@xml/2132082689"/>
+        </provider>
+        <activity android:name=".SplashActivity" screenOrientation="portrait" configChanges="keyboardHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="o.C3570lk" screenOrientation="portrait"/>
+        <activity android:name="o.C3567lh" screenOrientation="portrait"/>
+        <activity android:name="o.C3569lj" screenOrientation="portrait"/>
+        <activity android:name="o.C3580lw" screenOrientation="portrait"/>
+        <activity android:name="o.C3573lo" screenOrientation="portrait"/>
+        <receiver name=".boot.StartOnBootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.QUICKBOOT_POWERON"/>
+            </intent-filter>
+        </receiver>
+        <service name="o.lS" exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_icon" resource="0x7f0801b5"/>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_color" resource="@color/2131099862"/>
+        <activity theme="@style/2131952036" android:name="o.lB" launchMode="singleTask"/>
+        <service name="o.lR" NOT_FOUND_0x24="8"/>
+        <activity theme="@style/2131951625" android:name="o.C3572ln" screenOrientation="portrait"/>
+        <activity theme="@style/2131951625" android:name="o.C3571lm" screenOrientation="landscape"/>
+        <activity theme="@style/2131952320" label="@string/2131886325" android:name="zendesk.support.guide.HelpCenterActivity" windowSoftInputMode="adjustResize"/>
+        <activity theme="@style/2131952320" label="@string/2131886390" android:name="zendesk.support.guide.ViewArticleActivity" configChanges="orientation|screenSize"/>
+        <activity theme="@style/2131952320" android:name="zendesk.support.request.RequestActivity" windowSoftInputMode="adjustResize"/>
+        <activity theme="@style/2131952320" label="@string/2131886281" android:name="zendesk.support.requestlist.RequestListActivity"/>
+        <receiver name=".receivers.UpgradeReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
+            </intent-filter>
+        </receiver>
+        <service name="o.Іլ" exported="false" NOT_FOUND_0x1e="true">
+            <meta-data name="com.google.firebase.components:com.google.firebase.remoteconfig.ktx.FirebaseConfigKtxRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.iid.Registrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <activity theme="@style/2131951845" label="" android:name="o.C3535kd" exported="false"/>
+        <receiver name="zendesk.support.DeepLinkingBroadcastReceiver" exported="false">
+            <intent-filter>
+                <action android:name="zendesk.support"/>
+            </intent-filter>
+        </receiver>
+        <provider name="zendesk.support.SupportSdkStartupProvider" enabled="true" exported="false" authorities="sg.gov.tech.bluetrace.zendesk.support.SupportSdkStartupProvider"/>
+        <activity theme="@style/Theme.Translucent.NoTitleBar" android:name="com.google.firebase.auth.internal.FederatedSignInActivity" permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN" exported="true" excludeFromRecents="true" launchMode="singleTask"/>
+        <receiver name="com.google.android.gms.measurement.AppMeasurementReceiver" enabled="true" exported="false"/>
+        <receiver name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" permission="android.permission.INSTALL_PACKAGES" enabled="true" exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service name="com.google.android.gms.measurement.AppMeasurementService" enabled="true" exported="false"/>
+        <service name="com.google.android.gms.measurement.AppMeasurementJobService" permission="android.permission.BIND_JOB_SERVICE" enabled="true" exported="false"/>
+        <service name="o.ɪɐ" exported="false">
+            <intent-filter priority="-4">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <receiver name="com.google.firebase.iid.FirebaseInstanceIdReceiver" permission="com.google.android.c2dm.permission.SEND" exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <provider name="o.mr" readPermission="true" exported="false" authorities="sg.gov.tech.bluetrace.belvedere2.attachments" grantUriPermissions="true">
+            <meta-data name="android.support.FILE_PROVIDER_PATHS" resource="@xml/2132082688"/>
+        </provider>
+        <provider name="o.іſ" exported="false" authorities="sg.gov.tech.bluetrace.crashlyticsinitprovider" initOrder="90"/>
+        <service name="o.ɩɍ" exported="false"/>
+        <activity theme="@style/Theme.Translucent.NoTitleBar" android:name="com.google.android.gms.common.api.GoogleApiActivity" exported="false"/>
+        <provider name="com.google.firebase.provider.FirebaseInitProvider" exported="false" authorities="sg.gov.tech.bluetrace.firebaseinitprovider" initOrder="100"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="12451000"/>
+        <provider name="o.ӏΙ" exported="false" multiprocess="true" authorities="sg.gov.tech.bluetrace.lifecycle-process"/>
+        <service name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery" exported="false">
+            <meta-data name="a" value=""/>
+        </service>
+        <service name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" permission="android.permission.BIND_JOB_SERVICE" exported="false"/>
+        <receiver name="o.сӀ" exported="false"/>
+        <meta-data android:name="com.android.vending.splits.required" android:value="true"/>
+        <meta-data android:name="com.android.vending.splits" android:value="@xml/splits0"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>

@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="2130968576" format="string">
+    </attr>
+    <attr name="2130968577" format="reference">
+    </attr>
+    <attr name="2130968578" format="reference">
+    </attr>
+    <attr name="2130968579" format="reference">
+    </attr>
+    <attr name="2130968580" format="dimension">
+        <enum name="?0x7f0a029a" value="0" />
+    </attr>
+    <attr name="2130968581" format="reference">
+    </attr>
+    <attr name="2130968582" format="reference">
+    </attr>
+    <attr name="2130968583" format="reference">
+    </attr>
+    <attr name="2130968584" format="reference">
+    </attr>
+    <attr name="2130968585" format="reference">
+    </attr>
+    <attr name="2130968586" format="reference">
+    </attr>
+    <attr name="2130968587" format="reference">
+    </attr>
+    <attr name="2130968588" format="reference">
+    </attr>
+    <attr name="2130968589" format="reference">
+    </attr>
+    <attr name="2130968590" format="reference">
+    </attr>
+    <attr name="2130968591" format="reference">
+    </attr>
+    <attr name="2130968592" format="reference|color">
+    </attr>
+    <attr name="2130968593" format="reference">
+    </attr>
+    <attr name="2130968594" format="reference">
+    </attr>
+    <attr name="2130968595" format="reference">
+    </attr>
+    <attr name="2130968596" format="reference">
+    </attr>
+    <attr name="2130968597" format="reference">
+    </attr>
+    <attr name="2130968598" format="reference">
+    </attr>
+    <attr name="2130968599" format="reference">
+    </attr>
+    <attr name="2130968600" format="reference">
+    </attr>
+    <attr name="2130968601" format="reference">
+    </attr>
+    <attr name="2130968602" format="reference">
+    </attr>
+    <attr name="2130968603" format="reference">
+    </attr>
+    <attr name="2130968604" format="reference">
+    </attr>
+    <attr name="2130968605" format="reference">
+    </attr>
+    <attr name="2130968606" format="reference">
+    </attr>
+    <attr name="2130968607" format="reference">
+    </attr>
+    <attr name="2130968608" format="string">
+    </attr>
+    <attr name="2130968609" format="float">
+    </attr>
+    <attr name="2130968610" format="string">
+    </attr>
+    <attr name="2130968611" format="reference">
+    </attr>
+    <attr name="2130968612" format="reference">
+    </attr>
+    <attr name="2130968613" format="boolean">
+    </attr>
+    <attr name="2130968614" format="reference">
+    </attr>
+    <attr name="2130968615" format="reference">
+    </attr>
+    <attr name="2130968616" format="boolean">
+    </attr>
+    <attr name="2130968617" format="float">
+    </attr>
+    <attr name="2130968618">
+        <flag name="?0x7f0a0001" value="2" />
+        <flag name="?0x7f0a0009" value="4096" />
+        <flag name="?0x7f0a0012" value="8" />
+        <flag name="?0x7f0a0023" value="65536" />
+        <flag name="?0x7f0a0033" value="1" />
+        <flag name="?0x7f0a003c" value="4" />
+    </attr>
+    <attr name="2130968619">
+        <enum name="?0x7f0a00fe" value="1" />
+        <enum name="?0x7f0a0222" value="0" />
+    </attr>
+    <attr name="2130968620" format="reference">
+    </attr>
+    <attr name="2130968621" format="string">
+    </attr>
+    <attr name="2130968624" format="reference">
+    </attr>
+    <attr name="2130968625" format="dimension">
+    </attr>
+    <attr name="2130968626" format="dimension">
+    </attr>
+    <attr name="2130968627" format="reference">
+    </attr>
+    <attr name="2130968628" format="dimension">
+    </attr>
+    <attr name="2130968629">
+        <enum name="?0x7f0a0188" value="0" />
+        <enum name="?0x7f0a027c" value="1" />
+    </attr>
+    <attr name="2130968630" format="reference">
+    </attr>
+    <attr name="2130968636" format="float">
+    </attr>
+    <attr name="2130968637" format="reference|color">
+    </attr>
+    <attr name="2130968638" format="reference|color">
+    </attr>
+    <attr name="2130968639" format="color">
+    </attr>
+    <attr name="2130968640">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130968645" format="color">
+    </attr>
+    <attr name="2130968646" format="boolean">
+    </attr>
+    <attr name="2130968647" format="color">
+    </attr>
+    <attr name="2130968648" format="dimension">
+    </attr>
+    <attr name="2130968649" format="color">
+    </attr>
+    <attr name="2130968650" format="dimension">
+    </attr>
+    <attr name="2130968651" format="dimension">
+    </attr>
+    <attr name="2130968652" format="dimension">
+    </attr>
+    <attr name="2130968653" format="dimension">
+    </attr>
+    <attr name="2130968654" format="dimension">
+    </attr>
+    <attr name="2130968655" format="color">
+    </attr>
+    <attr name="2130968656" format="boolean">
+    </attr>
+    <attr name="2130968657">
+        <enum name="2131361964" value="3" />
+        <enum name="?0x7f0a00ee" value="6" />
+        <enum name="2131362112" value="0" />
+        <enum name="2131362296" value="1" />
+        <enum name="2131362353" value="5" />
+        <enum name="?0x7f0a0262" value="2" />
+    </attr>
+    <attr name="2130968658" format="boolean">
+    </attr>
+    <attr name="2130968659" format="boolean">
+    </attr>
+    <attr name="2130968660" format="boolean">
+    </attr>
+    <attr name="2130968661" format="reference|integer">
+    </attr>
+    <attr name="2130968662" format="boolean">
+    </attr>
+    <attr name="2130968663" format="reference|float">
+    </attr>
+    <attr name="2130968664" format="boolean">
+    </attr>
+    <attr name="2130968665" format="dimension">
+    </attr>
+    <attr name="2130968666" format="dimension">
+        <enum name="?0x7f0a009d" value="-1" />
+    </attr>
+    <attr name="2130968667">
+        <flag name="?0x7f0a0092" value="-1" />
+        <flag name="?0x7f0a0108" value="2" />
+        <flag name="?0x7f0a0120" value="4" />
+        <flag name="?0x7f0a0188" value="0" />
+        <flag name="?0x7f0a019c" value="1" />
+        <flag name="?0x7f0a0221" value="8" />
+    </attr>
+    <attr name="2130968668" format="boolean">
+    </attr>
+    <attr name="2130968669" format="dimension">
+    </attr>
+    <attr name="2130968670" format="reference">
+    </attr>
+    <attr name="2130968671" format="reference">
+    </attr>
+    <attr name="2130968672" format="reference">
+    </attr>
+    <attr name="2130968673" format="reference">
+    </attr>
+    <attr name="2130968674" format="reference">
+    </attr>
+    <attr name="2130968675" format="color">
+    </attr>
+    <attr name="2130968676">
+        <enum name="?0x7f0a0104" value="1" />
+        <enum name="?0x7f0a0188" value="0" />
+        <enum name="?0x7f0a0192" value="2" />
+    </attr>
+    <attr name="2130968677" format="dimension">
+    </attr>
+    <attr name="2130968678" format="dimension">
+    </attr>
+    <attr name="2130968679" format="dimension">
+    </attr>
+    <attr name="2130968680" format="dimension">
+    </attr>
+    <attr name="2130968681" format="dimension">
+    </attr>
+    <attr name="2130968682" format="color">
+    </attr>
+    <attr name="2130968683" format="color">
+    </attr>
+    <attr name="2130968684" format="dimension">
+    </attr>
+    <attr name="2130968685" format="dimension">
+    </attr>
+    <attr name="2130968686" format="dimension">
+    </attr>
+    <attr name="2130968687" format="dimension">
+    </attr>
+    <attr name="2130968688" format="dimension">
+    </attr>
+    <attr name="2130968689" format="dimension">
+    </attr>
+    <attr name="2130968690" format="dimension">
+    </attr>
+    <attr name="2130968691" format="reference">
+    </attr>
+    <attr name="2130968692" format="reference">
+    </attr>
+    <attr name="2130968693" format="reference">
+    </attr>
+    <attr name="2130968694" format="reference">
+    </attr>
+    <attr name="2130968695" format="reference">
+    </attr>
+    <attr name="2130968696" format="reference">
+    </attr>
+    <attr name="2130968697">
+        <flag name="2131361964" value="80" />
+        <flag name="?0x7f0a00ba" value="16" />
+        <flag name="?0x7f0a0262" value="48" />
+    </attr>
+    <attr name="2130968698" format="dimension">
+    </attr>
+    <attr name="2130968699" format="reference">
+    </attr>
+    <attr name="2130968700" format="reference">
+        <enum name="?0x7f0a0125" value="2" />
+        <enum name="?0x7f0a0230" value="0" />
+        <enum name="?0x7f0a0296" value="1" />
+    </attr>
+    <attr name="2130968701" format="reference">
+    </attr>
+    <attr name="2130968702" format="reference">
+    </attr>
+    <attr name="2130968703" format="color">
+    </attr>
+    <attr name="2130968704">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130968705" format="color">
+    </attr>
+    <attr name="2130968706" format="dimension">
+    </attr>
+    <attr name="2130968707" format="dimension">
+    </attr>
+    <attr name="2130968708" format="color">
+    </attr>
+    <attr name="2130968709" format="dimension">
+    </attr>
+    <attr name="2130968710" format="boolean">
+    </attr>
+    <attr name="2130968711" format="boolean">
+    </attr>
+    <attr name="2130968712" format="reference">
+    </attr>
+    <attr name="2130968713" format="boolean">
+    </attr>
+    <attr name="2130968714" format="color">
+    </attr>
+    <attr name="2130968715" format="color">
+    </attr>
+    <attr name="2130968716" format="reference">
+    </attr>
+    <attr name="2130968717" format="color">
+    </attr>
+    <attr name="2130968718" format="boolean">
+    </attr>
+    <attr name="2130968719" format="boolean">
+    </attr>
+    <attr name="2130968720" format="color">
+    </attr>
+    <attr name="2130968721" format="boolean">
+    </attr>
+    <attr name="2130968722" format="boolean">
+    </attr>
+    <attr name="2130968723" format="boolean">
+    </attr>
+    <attr name="2130968724" format="boolean">
+    </attr>
+    <attr name="2130968725" format="boolean">
+    </attr>
+    <attr name="2130968726" format="boolean">
+    </attr>
+    <attr name="2130968727" format="color">
+    </attr>
+    <attr name="2130968728" format="boolean">
+    </attr>
+    <attr name="2130968729" format="color">
+    </attr>
+    <attr name="2130968730" format="dimension">
+    </attr>
+    <attr name="2130968731" format="boolean">
+    </attr>
+    <attr name="2130968732" format="boolean">
+    </attr>
+    <attr name="2130968733" format="boolean">
+    </attr>
+    <attr name="2130968734" format="boolean">
+    </attr>
+    <attr name="2130968735" format="color">
+    </attr>
+    <attr name="2130968736">
+        <enum name="?0x7f0a001e" value="32" />
+        <enum name="?0x7f0a001f" value="321" />
+        <enum name="?0x7f0a0020" value="3" />
+        <enum name="?0x7f0a0021" value="31" />
+        <enum name="?0x7f0a0022" value="312" />
+        <enum name="?0x7f0a0025" value="23" />
+        <enum name="?0x7f0a0026" value="231" />
+        <enum name="?0x7f0a0027" value="2" />
+        <enum name="?0x7f0a0028" value="21" />
+        <enum name="?0x7f0a0029" value="213" />
+        <enum name="?0x7f0a0034" value="13" />
+        <enum name="?0x7f0a0035" value="132" />
+        <enum name="?0x7f0a0036" value="12" />
+        <enum name="?0x7f0a0037" value="123" />
+        <enum name="?0x7f0a0038" value="1" />
+    </attr>
+    <attr name="2130968737" format="string">
+    </attr>
+    <attr name="2130968738" format="string">
+    </attr>
+    <attr name="2130968739">
+        <enum name="?0x7f0a0000" value="0" />
+        <enum name="?0x7f0a0002" value="1" />
+        <enum name="?0x7f0a0003" value="2" />
+        <enum name="?0x7f0a0007" value="3" />
+        <enum name="?0x7f0a0008" value="4" />
+        <enum name="?0x7f0a000a" value="5" />
+        <enum name="?0x7f0a000b" value="6" />
+        <enum name="?0x7f0a000c" value="7" />
+        <enum name="?0x7f0a000d" value="8" />
+        <enum name="?0x7f0a000e" value="9" />
+        <enum name="?0x7f0a0011" value="10" />
+        <enum name="?0x7f0a0013" value="11" />
+        <enum name="?0x7f0a0014" value="12" />
+        <enum name="?0x7f0a0015" value="13" />
+        <enum name="?0x7f0a0016" value="14" />
+        <enum name="?0x7f0a0017" value="15" />
+        <enum name="?0x7f0a0018" value="16" />
+        <enum name="?0x7f0a0019" value="17" />
+        <enum name="?0x7f0a001a" value="18" />
+        <enum name="?0x7f0a001b" value="19" />
+        <enum name="?0x7f0a001c" value="20" />
+        <enum name="?0x7f0a002c" value="21" />
+        <enum name="?0x7f0a002d" value="22" />
+        <enum name="?0x7f0a002f" value="23" />
+        <enum name="?0x7f0a0031" value="24" />
+        <enum name="?0x7f0a0039" value="25" />
+        <enum name="?0x7f0a003a" value="26" />
+        <enum name="?0x7f0a003b" value="27" />
+        <enum name="?0x7f0a0040" value="28" />
+        <enum name="?0x7f0a0042" value="29" />
+        <enum name="?0x7f0a0044" value="30" />
+        <enum name="?0x7f0a0045" value="31" />
+        <enum name="?0x7f0a0046" value="32" />
+    </attr>
+    <attr name="2130968740" format="string">
+    </attr>
+    <attr name="2130968741" format="integer">
+    </attr>
+    <attr name="2130968742" format="string">
+    </attr>
+    <attr name="2130968743" format="color">
+    </attr>
+    <attr name="2130968744" format="boolean">
+    </attr>
+    <attr name="2130968745">
+        <enum name="?0x7f0a000f" value="1" />
+        <enum name="?0x7f0a0010" value="2" />
+        <enum name="?0x7f0a0024" value="0" />
+        <enum name="?0x7f0a002a" value="8" />
+        <enum name="?0x7f0a002b" value="7" />
+        <enum name="?0x7f0a002e" value="4" />
+        <enum name="?0x7f0a0032" value="5" />
+        <enum name="?0x7f0a003d" value="3" />
+        <enum name="?0x7f0a0041" value="9" />
+        <enum name="?0x7f0a0043" value="11" />
+        <enum name="?0x7f0a0047" value="10" />
+        <enum name="?0x7f0a0048" value="6" />
+    </attr>
+    <attr name="2130968746" format="boolean">
+    </attr>
+    <attr name="2130968747" format="boolean">
+    </attr>
+    <attr name="2130968748" format="string">
+    </attr>
+    <attr name="2130968749" format="boolean">
+    </attr>
+    <attr name="2130968750" format="boolean">
+    </attr>
+    <attr name="2130968751" format="boolean">
+    </attr>
+    <attr name="2130968752" format="boolean">
+    </attr>
+    <attr name="2130968753" format="boolean">
+    </attr>
+    <attr name="2130968754">
+        <enum name="?0x7f0a0006" value="0" />
+        <enum name="?0x7f0a001d" value="-1" />
+        <enum name="?0x7f0a0030" value="1" />
+    </attr>
+    <attr name="2130968755" format="dimension">
+    </attr>
+    <attr name="2130968756" format="boolean">
+    </attr>
+    <attr name="2130968757" format="boolean">
+    </attr>
+    <attr name="2130968758" format="boolean">
+    </attr>
+    <attr name="2130968759" format="reference">
+    </attr>
+    <attr name="2130968760" format="reference">
+    </attr>
+    <attr name="2130968761" format="reference">
+    </attr>
+    <attr name="2130968762" format="reference">
+    </attr>
+    <attr name="2130968763" format="boolean">
+    </attr>
+    <attr name="2130968764" format="color">
+    </attr>
+    <attr name="2130968765" format="boolean">
+    </attr>
+    <attr name="2130968766" format="reference">
+    </attr>
+    <attr name="2130968767" format="color">
+    </attr>
+    <attr name="2130968768" format="dimension">
+    </attr>
+    <attr name="2130968769" format="dimension">
+    </attr>
+    <attr name="2130968770" format="reference">
+    </attr>
+    <attr name="2130968771" format="reference">
+    </attr>
+    <attr name="2130968772" format="boolean">
+    </attr>
+    <attr name="2130968773" format="dimension">
+    </attr>
+    <attr name="2130968774" format="color">
+    </attr>
+    <attr name="2130968775" format="boolean">
+    </attr>
+    <attr name="2130968776" format="dimension">
+    </attr>
+    <attr name="2130968777" format="dimension">
+    </attr>
+    <attr name="2130968778" format="dimension">
+    </attr>
+    <attr name="2130968779" format="dimension">
+    </attr>
+    <attr name="2130968780" format="dimension">
+    </attr>
+    <attr name="2130968782" format="dimension">
+    </attr>
+    <attr name="2130968783" format="color">
+    </attr>
+    <attr name="2130968784" format="dimension">
+    </attr>
+    <attr name="2130968785" format="reference">
+    </attr>
+    <attr name="2130968786" format="color">
+    </attr>
+    <attr name="2130968788" format="reference">
+    </attr>
+    <attr name="2130968789" format="boolean">
+    </attr>
+    <attr name="2130968790" format="dimension">
+    </attr>
+    <attr name="2130968791" format="dimension">
+    </attr>
+    <attr name="2130968792" format="dimension">
+    </attr>
+    <attr name="2130968793" format="color">
+    </attr>
+    <attr name="2130968794" format="boolean">
+    </attr>
+    <attr name="2130968795" format="reference">
+    </attr>
+    <attr name="2130968796" format="string">
+    </attr>
+    <attr name="2130968797" format="reference">
+    </attr>
+    <attr name="2130968798">
+        <flag name="2131361964" value="80" />
+        <flag name="2131361976" value="17" />
+        <flag name="?0x7f0a00b9" value="1" />
+        <flag name="?0x7f0a00ba" value="16" />
+        <flag name="?0x7f0a00ee" value="8388613" />
+        <flag name="?0x7f0a0103" value="112" />
+        <flag name="2131362112" value="3" />
+        <flag name="2131362296" value="5" />
+        <flag name="2131362353" value="8388611" />
+        <flag name="?0x7f0a0262" value="48" />
+    </attr>
+    <attr name="2130968799" format="reference">
+    </attr>
+    <attr name="2130968801" format="color">
+    </attr>
+    <attr name="2130968802" format="color">
+    </attr>
+    <attr name="2130968803" format="color">
+    </attr>
+    <attr name="2130968804" format="color">
+    </attr>
+    <attr name="2130968805" format="color">
+    </attr>
+    <attr name="2130968806" format="color">
+    </attr>
+    <attr name="2130968807" format="reference|color">
+    </attr>
+    <attr name="2130968808" format="reference|string|integer|boolean|color|float|dimension|fraction">
+    </attr>
+    <attr name="2130968813" format="color">
+    </attr>
+    <attr name="2130968814" format="reference">
+    </attr>
+    <attr name="2130968815" format="color">
+    </attr>
+    <attr name="2130968816" format="color">
+    </attr>
+    <attr name="2130968818" format="color">
+    </attr>
+    <attr name="2130968819" format="reference">
+        <enum name="?0x7f0a009d" value="2" />
+        <enum name="?0x7f0a00d5" value="0" />
+        <enum name="?0x7f0a0141" value="1" />
+    </attr>
+    <attr name="2130968822" format="color">
+    </attr>
+    <attr name="2130968823" format="color">
+    </attr>
+    <attr name="2130968824" format="reference">
+    </attr>
+    <attr name="2130968825" format="reference">
+    </attr>
+    <attr name="2130968826" format="string">
+    </attr>
+    <attr name="2130968827" format="reference">
+    </attr>
+    <attr name="2130968828" format="string">
+    </attr>
+    <attr name="2130968829" format="dimension">
+    </attr>
+    <attr name="2130968830" format="dimension">
+    </attr>
+    <attr name="2130968831" format="dimension">
+    </attr>
+    <attr name="2130968832" format="dimension">
+    </attr>
+    <attr name="2130968833" format="dimension">
+    </attr>
+    <attr name="2130968834" format="dimension">
+    </attr>
+    <attr name="2130968835" format="dimension">
+    </attr>
+    <attr name="2130968836" format="dimension">
+    </attr>
+    <attr name="2130968837" format="dimension">
+    </attr>
+    <attr name="2130968838" format="dimension">
+    </attr>
+    <attr name="2130968839" format="dimension">
+    </attr>
+    <attr name="2130968840" format="color">
+    </attr>
+    <attr name="2130968841" format="reference">
+    </attr>
+    <attr name="2130968842" format="reference">
+    </attr>
+    <attr name="2130968843">
+        <enum name="?0x7f0a00d4" value="1" />
+        <enum name="?0x7f0a0200" value="0" />
+    </attr>
+    <attr name="2130968844">
+        <enum name="?0x7f0a00d4" value="1" />
+        <enum name="?0x7f0a0200" value="0" />
+    </attr>
+    <attr name="2130968845">
+        <enum name="?0x7f0a00d4" value="1" />
+        <enum name="?0x7f0a0200" value="0" />
+    </attr>
+    <attr name="2130968846">
+        <enum name="?0x7f0a00d4" value="1" />
+        <enum name="?0x7f0a0200" value="0" />
+    </attr>
+    <attr name="2130968847">
+        <enum name="?0x7f0a00d4" value="1" />
+        <enum name="?0x7f0a0200" value="0" />
+    </attr>
+    <attr name="2130968848" format="dimension">
+    </attr>
+    <attr name="2130968849" format="dimension|fraction">
+    </attr>
+    <attr name="2130968850" format="dimension|fraction">
+    </attr>
+    <attr name="2130968851" format="dimension|fraction">
+    </attr>
+    <attr name="2130968852" format="dimension|fraction">
+    </attr>
+    <attr name="2130968853" format="dimension|fraction">
+    </attr>
+    <attr name="2130968854" format="boolean">
+    </attr>
+    <attr name="2130968855" format="integer">
+    </attr>
+    <attr name="2130968856" format="reference">
+    </attr>
+    <attr name="2130968857" format="reference">
+    </attr>
+    <attr name="2130968858" format="reference">
+    </attr>
+    <attr name="2130968859" format="reference">
+    </attr>
+    <attr name="2130968860" format="reference">
+    </attr>
+    <attr name="2130968861" format="string">
+    </attr>
+    <attr name="2130968862" format="string">
+    </attr>
+    <attr name="2130968863" format="reference">
+    </attr>
+    <attr name="2130968864" format="reference">
+    </attr>
+    <attr name="2130968865" format="reference">
+    </attr>
+    <attr name="2130968866" format="reference">
+    </attr>
+    <attr name="2130968867" format="boolean">
+    </attr>
+    <attr name="2130968868" format="string">
+    </attr>
+    <attr name="2130968869" format="reference">
+    </attr>
+    <attr name="2130968870" format="dimension">
+    </attr>
+    <attr name="2130968871" format="dimension">
+    </attr>
+    <attr name="2130968872" format="reference">
+    </attr>
+    <attr name="2130968873">
+        <flag name="?0x7f0a00e3" value="32" />
+        <flag name="?0x7f0a0122" value="4" />
+        <flag name="?0x7f0a0188" value="0" />
+        <flag name="?0x7f0a021c" value="16" />
+        <flag name="?0x7f0a021d" value="2" />
+        <flag name="?0x7f0a021e" value="8" />
+        <flag name="?0x7f0a0283" value="1" />
+    </attr>
+    <attr name="2130968874" format="reference">
+    </attr>
+    <attr name="2130968875" format="reference">
+    </attr>
+    <attr name="2130968876" format="dimension">
+    </attr>
+    <attr name="2130968877" format="reference">
+    </attr>
+    <attr name="2130968878" format="reference">
+    </attr>
+    <attr name="2130968879" format="reference">
+    </attr>
+    <attr name="2130968880" format="reference">
+    </attr>
+    <attr name="2130968881" format="reference">
+    </attr>
+    <attr name="2130968883" format="reference">
+    </attr>
+    <attr name="2130968884" format="color">
+    </attr>
+    <attr name="2130968885">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130968886" format="reference">
+    </attr>
+    <attr name="2130968888" format="reference">
+    </attr>
+    <attr name="2130968889" format="dimension">
+    </attr>
+    <attr name="2130968890" format="reference">
+    </attr>
+    <attr name="2130968891" format="reference|color">
+    </attr>
+    <attr name="2130968892" format="reference">
+    </attr>
+    <attr name="2130968893" format="dimension">
+    </attr>
+    <attr name="2130968894" format="color">
+    </attr>
+    <attr name="2130968895" format="boolean">
+    </attr>
+    <attr name="2130968896">
+        <enum name="?0x7f0a0118" value="0" />
+        <enum name="?0x7f0a0137" value="1" />
+    </attr>
+    <attr name="2130968897" format="boolean">
+    </attr>
+    <attr name="2130968898" format="string">
+    </attr>
+    <attr name="2130968899" format="reference">
+    </attr>
+    <attr name="2130968900">
+        <enum name="?0x7f0a00c4" value="2" />
+        <enum name="2131362002" value="-1" />
+        <enum name="?0x7f0a00e9" value="3" />
+        <enum name="?0x7f0a0188" value="0" />
+        <enum name="?0x7f0a019a" value="1" />
+    </attr>
+    <attr name="2130968901" format="color">
+    </attr>
+    <attr name="2130968902">
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130968903" format="boolean">
+    </attr>
+    <attr name="2130968904" format="boolean">
+    </attr>
+    <attr name="2130968905" format="boolean">
+    </attr>
+    <attr name="2130968906" format="reference">
+    </attr>
+    <attr name="2130968907" format="string">
+    </attr>
+    <attr name="2130968908" format="boolean">
+    </attr>
+    <attr name="2130968909" format="reference">
+    </attr>
+    <attr name="2130968910" format="reference">
+    </attr>
+    <attr name="2130968911">
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130968912" format="reference">
+    </attr>
+    <attr name="2130968913" format="color">
+    </attr>
+    <attr name="2130968914" format="reference">
+    </attr>
+    <attr name="2130968915" format="reference">
+    </attr>
+    <attr name="2130968916" format="boolean">
+    </attr>
+    <attr name="2130968917">
+        <flag name="2131361964" value="80" />
+        <flag name="2131361976" value="17" />
+        <flag name="?0x7f0a00b9" value="1" />
+        <flag name="?0x7f0a00ba" value="16" />
+        <flag name="?0x7f0a00ee" value="8388613" />
+        <flag name="?0x7f0a0103" value="112" />
+        <flag name="2131362112" value="3" />
+        <flag name="2131362296" value="5" />
+        <flag name="2131362353" value="8388611" />
+        <flag name="?0x7f0a0262" value="48" />
+    </attr>
+    <attr name="2130968918" format="dimension">
+    </attr>
+    <attr name="2130968919" format="dimension">
+    </attr>
+    <attr name="2130968920" format="dimension">
+    </attr>
+    <attr name="2130968921" format="dimension">
+    </attr>
+    <attr name="2130968922" format="dimension">
+    </attr>
+    <attr name="2130968923" format="reference">
+    </attr>
+    <attr name="2130968924" format="reference">
+    </attr>
+    <attr name="2130968925" format="reference">
+    </attr>
+    <attr name="2130968926">
+        <enum name="2131361976" value="0" />
+        <enum name="?0x7f0a00ee" value="1" />
+    </attr>
+    <attr name="2130968927">
+        <enum name="?0x7f0a0204" value="0" />
+        <enum name="?0x7f0a0222" value="1" />
+    </attr>
+    <attr name="2130968928" format="dimension">
+    </attr>
+    <attr name="2130968929" format="dimension">
+    </attr>
+    <attr name="2130968930" format="dimension">
+    </attr>
+    <attr name="2130968931" format="dimension">
+    </attr>
+    <attr name="2130968932">
+        <enum name="?0x7f0a009d" value="-1" />
+        <enum name="?0x7f0a015f" value="1" />
+        <enum name="?0x7f0a0189" value="0" />
+    </attr>
+    <attr name="2130968933" format="boolean">
+    </attr>
+    <attr name="2130968934" format="reference">
+    </attr>
+    <attr name="2130968935" format="reference">
+    </attr>
+    <attr name="2130968936" format="reference">
+    </attr>
+    <attr name="2130968937" format="reference">
+    </attr>
+    <attr name="2130968938" format="color">
+    </attr>
+    <attr name="2130968939" format="reference">
+    </attr>
+    <attr name="2130968940" format="color">
+    </attr>
+    <attr name="2130968941" format="reference">
+    </attr>
+    <attr name="2130968942" format="dimension">
+    </attr>
+    <attr name="2130968943" format="reference">
+    </attr>
+    <attr name="2130968944" format="reference">
+    </attr>
+    <attr name="2130968945" format="string">
+    </attr>
+    <attr name="2130968946" format="string">
+    </attr>
+    <attr name="2130968947" format="reference">
+    </attr>
+    <attr name="2130968948">
+        <enum name="?0x7f0a0099" value="1" />
+        <enum name="?0x7f0a00aa" value="0" />
+    </attr>
+    <attr name="2130968949" format="integer">
+        <enum name="?0x7f0a010e" value="-1" />
+    </attr>
+    <attr name="2130968950" format="string">
+    </attr>
+    <attr name="2130968951" format="string">
+    </attr>
+    <attr name="2130968952">
+        <enum name="?0x7f0a0138" value="1" />
+        <enum name="?0x7f0a0189" value="0" />
+    </attr>
+    <attr name="2130968953" format="string">
+    </attr>
+    <attr name="2130968954" format="integer">
+    </attr>
+    <attr name="2130968955" format="boolean">
+    </attr>
+    <attr name="2130968957" format="reference">
+    </attr>
+    <attr name="2130968958" format="reference">
+    </attr>
+    <attr name="2130968959" format="color">
+    </attr>
+    <attr name="2130968960" format="dimension">
+    </attr>
+    <attr name="2130968961" format="reference">
+    </attr>
+    <attr name="2130968962" format="dimension">
+    </attr>
+    <attr name="2130968963" format="string">
+    </attr>
+    <attr name="2130968964" format="boolean">
+    </attr>
+    <attr name="2130968965" format="reference">
+    </attr>
+    <attr name="2130968966" format="color">
+    </attr>
+    <attr name="2130968967" format="reference">
+    </attr>
+    <attr name="2130968968" format="boolean">
+    </attr>
+    <attr name="2130968969" format="boolean">
+    </attr>
+    <attr name="2130968970" format="boolean">
+    </attr>
+    <attr name="2130968971" format="reference">
+    </attr>
+    <attr name="2130968972" format="boolean">
+    </attr>
+    <attr name="2130968973" format="boolean">
+    </attr>
+    <attr name="2130968974" format="reference">
+    </attr>
+    <attr name="2130968975" format="color">
+    </attr>
+    <attr name="2130968976" format="reference">
+    </attr>
+    <attr name="2130968977" format="reference">
+    </attr>
+    <attr name="2130968979" format="dimension">
+    </attr>
+    <attr name="2130968980" format="reference">
+    </attr>
+    <attr name="2130968981" format="dimension">
+    </attr>
+    <attr name="2130968982">
+        <flag name="?0x7f0a00ee" value="3" />
+        <flag name="2131362353" value="1" />
+        <flag name="?0x7f0a0249" value="4" />
+        <flag name="?0x7f0a024c" value="2" />
+    </attr>
+    <attr name="2130968983" format="dimension">
+    </attr>
+    <attr name="2130968984" format="dimension">
+    </attr>
+    <attr name="2130968985" format="dimension">
+    </attr>
+    <attr name="2130968986" format="color">
+    </attr>
+    <attr name="2130968987">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130968988" format="boolean">
+    </attr>
+    <attr name="2130968991" format="reference">
+    </attr>
+    <attr name="2130968992" format="reference">
+    </attr>
+    <attr name="2130968993" format="string">
+    </attr>
+    <attr name="2130968994" format="reference|color">
+    </attr>
+    <attr name="2130968996" format="boolean">
+    </attr>
+    <attr name="2130968997" format="reference">
+    </attr>
+    <attr name="2130968998" format="color">
+    </attr>
+    <attr name="2130968999" format="dimension">
+    </attr>
+    <attr name="2130969000" format="boolean">
+    </attr>
+    <attr name="2130969001" format="dimension">
+    </attr>
+    <attr name="2130969002" format="dimension">
+    </attr>
+    <attr name="2130969003" format="color">
+    </attr>
+    <attr name="2130969004" format="integer">
+    </attr>
+    <attr name="2130969005" format="dimension">
+    </attr>
+    <attr name="2130969006" format="color">
+    </attr>
+    <attr name="2130969007" format="reference">
+    </attr>
+    <attr name="2130969008" format="reference">
+    </attr>
+    <attr name="2130969009" format="color">
+    </attr>
+    <attr name="2130969010" format="dimension">
+    </attr>
+    <attr name="2130969011" format="dimension">
+    </attr>
+    <attr name="2130969012" format="dimension">
+    </attr>
+    <attr name="2130969013" format="dimension">
+    </attr>
+    <attr name="2130969014" format="dimension">
+    </attr>
+    <attr name="2130969015" format="color">
+    </attr>
+    <attr name="2130969016" format="dimension">
+    </attr>
+    <attr name="2130969017" format="reference">
+    </attr>
+    <attr name="2130969018" format="reference">
+    </attr>
+    <attr name="2130969019" format="reference">
+    </attr>
+    <attr name="2130969020" format="color">
+    </attr>
+    <attr name="2130969021" format="reference">
+    </attr>
+    <attr name="2130969022">
+        <enum name="?0x7f0a010a" value="0" />
+        <enum name="?0x7f0a0118" value="2" />
+        <enum name="?0x7f0a0298" value="1" />
+    </attr>
+    <attr name="2130969023" format="reference">
+    </attr>
+    <attr name="2130969024">
+        <enum name="?0x7f0a009d" value="-1" />
+        <enum name="?0x7f0a013e" value="1" />
+        <enum name="?0x7f0a0218" value="0" />
+        <enum name="?0x7f0a027d" value="2" />
+    </attr>
+    <attr name="2130969025" format="dimension">
+    </attr>
+    <attr name="2130969026" format="boolean">
+    </attr>
+    <attr name="2130969027" format="reference">
+    </attr>
+    <attr name="2130969028" format="string">
+    </attr>
+    <attr name="2130969029" format="reference">
+    </attr>
+    <attr name="2130969030">
+        <flag name="2131361964" value="80" />
+        <flag name="2131361976" value="17" />
+        <flag name="?0x7f0a00b9" value="1" />
+        <flag name="?0x7f0a00ba" value="16" />
+        <flag name="?0x7f0a00c5" value="8" />
+        <flag name="?0x7f0a00c6" value="128" />
+        <flag name="?0x7f0a00ee" value="8388613" />
+        <flag name="?0x7f0a0101" value="119" />
+        <flag name="?0x7f0a0102" value="7" />
+        <flag name="?0x7f0a0103" value="112" />
+        <flag name="2131362112" value="3" />
+        <flag name="2131362296" value="5" />
+        <flag name="2131362353" value="8388611" />
+        <flag name="?0x7f0a0262" value="48" />
+    </attr>
+    <attr name="2130969031" format="string">
+    </attr>
+    <attr name="2130969032">
+        <enum name="?0x7f0a0188" value="0" />
+        <enum name="?0x7f0a0196" value="2" />
+        <enum name="?0x7f0a01a2" value="1" />
+    </attr>
+    <attr name="2130969033" format="float">
+    </attr>
+    <attr name="2130969034" format="boolean">
+    </attr>
+    <attr name="2130969035" format="boolean">
+    </attr>
+    <attr name="2130969036" format="integer">
+    </attr>
+    <attr name="2130969037" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969038" format="integer">
+    </attr>
+    <attr name="2130969039" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969040" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969041" format="reference">
+    </attr>
+    <attr name="2130969042" format="integer">
+    </attr>
+    <attr name="2130969043" format="dimension">
+    </attr>
+    <attr name="2130969044" format="string">
+    </attr>
+    <attr name="2130969045" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969046" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969047" format="dimension">
+    </attr>
+    <attr name="2130969048" format="dimension">
+    </attr>
+    <attr name="2130969049" format="float">
+    </attr>
+    <attr name="2130969050">
+        <enum name="?0x7f0a019d" value="2" />
+        <enum name="?0x7f0a022b" value="0" />
+        <enum name="?0x7f0a0299" value="1" />
+    </attr>
+    <attr name="2130969051" format="dimension">
+        <enum name="?0x7f0a0299" value="-2" />
+    </attr>
+    <attr name="2130969052" format="dimension">
+        <enum name="?0x7f0a0299" value="-2" />
+    </attr>
+    <attr name="2130969053" format="float">
+    </attr>
+    <attr name="2130969054" format="float">
+    </attr>
+    <attr name="2130969055">
+        <enum name="?0x7f0a0193" value="2" />
+        <enum name="?0x7f0a022b" value="0" />
+        <enum name="?0x7f0a022c" value="1" />
+    </attr>
+    <attr name="2130969056" format="float">
+    </attr>
+    <attr name="2130969057" format="integer">
+    </attr>
+    <attr name="2130969058" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969059" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969060" format="integer">
+    </attr>
+    <attr name="2130969061" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969062" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969063" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969064" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969065" format="integer">
+    </attr>
+    <attr name="2130969066" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969067" format="reference">
+        <enum name="?0x7f0a0197" value="0" />
+    </attr>
+    <attr name="2130969068" format="float">
+    </attr>
+    <attr name="2130969069">
+        <enum name="?0x7f0a0193" value="2" />
+        <enum name="?0x7f0a022b" value="0" />
+        <enum name="?0x7f0a022c" value="1" />
+    </attr>
+    <attr name="2130969070" format="float">
+    </attr>
+    <attr name="2130969071">
+        <enum name="?0x7f0a019d" value="2" />
+        <enum name="?0x7f0a022b" value="0" />
+        <enum name="?0x7f0a0299" value="1" />
+    </attr>
+    <attr name="2130969072" format="dimension">
+        <enum name="?0x7f0a0299" value="-2" />
+    </attr>
+    <attr name="2130969073" format="dimension">
+        <enum name="?0x7f0a0299" value="-2" />
+    </attr>
+    <attr name="2130969074" format="float">
+    </attr>
+    <attr name="2130969075">
+        <flag name="?0x7f0a0092" value="119" />
+        <flag name="2131361964" value="80" />
+        <flag name="?0x7f0a00ee" value="8388613" />
+        <flag name="2131362112" value="3" />
+        <flag name="?0x7f0a0188" value="0" />
+        <flag name="2131362296" value="5" />
+        <flag name="2131362353" value="8388611" />
+        <flag name="?0x7f0a0262" value="48" />
+    </attr>
+    <attr name="2130969076" format="dimension">
+    </attr>
+    <attr name="2130969077" format="dimension">
+    </attr>
+    <attr name="2130969078" format="dimension">
+    </attr>
+    <attr name="2130969079" format="dimension">
+    </attr>
+    <attr name="2130969080" format="dimension">
+    </attr>
+    <attr name="2130969081" format="dimension">
+    </attr>
+    <attr name="2130969082" format="dimension">
+    </attr>
+    <attr name="2130969083" format="dimension">
+    </attr>
+    <attr name="2130969084">
+        <enum name="2131361964" value="80" />
+        <enum name="?0x7f0a00ee" value="8388613" />
+        <enum name="2131362112" value="3" />
+        <enum name="?0x7f0a0188" value="0" />
+        <enum name="2131362296" value="5" />
+        <enum name="2131362353" value="8388611" />
+        <enum name="?0x7f0a0262" value="48" />
+    </attr>
+    <attr name="2130969085" format="integer">
+    </attr>
+    <attr name="2130969086">
+        <flag name="?0x7f0a00a1" value="2" />
+        <flag name="?0x7f0a00bb" value="4" />
+        <flag name="?0x7f0a00e1" value="8" />
+        <flag name="?0x7f0a00e2" value="1" />
+        <flag name="?0x7f0a011a" value="32" />
+        <flag name="?0x7f0a0188" value="0" />
+        <flag name="?0x7f0a0230" value="7" />
+    </attr>
+    <attr name="2130969087">
+        <flag name="?0x7f0a00f0" value="4" />
+        <flag name="?0x7f0a00f1" value="8" />
+        <flag name="?0x7f0a00f9" value="2" />
+        <flag name="?0x7f0a0187" value="0" />
+        <flag name="?0x7f0a0206" value="1" />
+        <flag name="?0x7f0a0226" value="16" />
+        <flag name="?0x7f0a0227" value="32" />
+    </attr>
+    <attr name="2130969088" format="reference">
+    </attr>
+    <attr name="2130969089" format="integer">
+    </attr>
+    <attr name="2130969090" format="boolean">
+    </attr>
+    <attr name="2130969091" format="reference">
+    </attr>
+    <attr name="2130969092" format="dimension">
+    </attr>
+    <attr name="2130969093" format="dimension">
+    </attr>
+    <attr name="2130969094" format="reference">
+    </attr>
+    <attr name="2130969095" format="reference">
+    </attr>
+    <attr name="2130969096" format="reference">
+    </attr>
+    <attr name="2130969097" format="reference">
+    </attr>
+    <attr name="2130969098" format="reference">
+    </attr>
+    <attr name="2130969099" format="reference">
+    </attr>
+    <attr name="2130969100" format="reference">
+    </attr>
+    <attr name="2130969101" format="reference">
+    </attr>
+    <attr name="2130969102" format="dimension">
+    </attr>
+    <attr name="2130969103" format="dimension">
+    </attr>
+    <attr name="2130969104" format="dimension">
+    </attr>
+    <attr name="2130969105" format="dimension">
+    </attr>
+    <attr name="2130969106" format="dimension">
+    </attr>
+    <attr name="2130969107" format="dimension">
+    </attr>
+    <attr name="2130969108" format="dimension">
+    </attr>
+    <attr name="2130969109" format="reference">
+    </attr>
+    <attr name="2130969110" format="string">
+    </attr>
+    <attr name="2130969111" format="boolean">
+    </attr>
+    <attr name="2130969112" format="boolean">
+    </attr>
+    <attr name="2130969113" format="color">
+    </attr>
+    <attr name="2130969114" format="boolean">
+    </attr>
+    <attr name="2130969115" format="reference">
+    </attr>
+    <attr name="2130969116" format="string">
+    </attr>
+    <attr name="2130969117" format="string">
+    </attr>
+    <attr name="2130969118" format="boolean">
+    </attr>
+    <attr name="2130969119" format="float">
+    </attr>
+    <attr name="2130969120" format="reference">
+    </attr>
+    <attr name="2130969121">
+        <enum name="?0x7f0a009e" value="0" />
+        <enum name="?0x7f0a011b" value="1" />
+        <enum name="?0x7f0a0228" value="2" />
+    </attr>
+    <attr name="2130969122" format="integer">
+    </attr>
+    <attr name="2130969123">
+        <enum name="?0x7f0a01f6" value="1" />
+        <enum name="?0x7f0a01f7" value="2" />
+    </attr>
+    <attr name="2130969124" format="float">
+    </attr>
+    <attr name="2130969125" format="float">
+    </attr>
+    <attr name="2130969126" format="string">
+    </attr>
+    <attr name="2130969133" format="reference">
+    </attr>
+    <attr name="2130969134" format="reference">
+    </attr>
+    <attr name="2130969143" format="reference">
+    </attr>
+    <attr name="2130969145" format="reference">
+    </attr>
+    <attr name="2130969146" format="reference">
+    </attr>
+    <attr name="2130969147" format="dimension">
+    </attr>
+    <attr name="2130969148" format="dimension">
+    </attr>
+    <attr name="2130969150" format="dimension">
+    </attr>
+    <attr name="2130969151" format="boolean">
+    </attr>
+    <attr name="2130969152" format="reference">
+    </attr>
+    <attr name="2130969154" format="reference">
+    </attr>
+    <attr name="2130969155" format="reference">
+    </attr>
+    <attr name="2130969156" format="string">
+    </attr>
+    <attr name="2130969157" format="reference">
+    </attr>
+    <attr name="2130969158">
+        <enum name="?0x7f0a0146" value="1" />
+        <enum name="?0x7f0a0189" value="0" />
+        <enum name="?0x7f0a023c" value="2" />
+    </attr>
+    <attr name="2130969159" format="reference">
+    </attr>
+    <attr name="2130969160" format="boolean">
+    </attr>
+    <attr name="2130969162">
+        <flag name="?0x7f0a0001" value="2" />
+        <flag name="?0x7f0a0009" value="4096" />
+        <flag name="?0x7f0a0012" value="8" />
+        <flag name="?0x7f0a0023" value="65536" />
+        <flag name="?0x7f0a0033" value="1" />
+        <flag name="?0x7f0a003c" value="4" />
+    </attr>
+    <attr name="2130969163" format="string">
+    </attr>
+    <attr name="2130969164" format="reference">
+    </attr>
+    <attr name="2130969165" format="reference">
+    </attr>
+    <attr name="2130969166" format="reference">
+    </attr>
+    <attr name="2130969167" format="reference">
+    </attr>
+    <attr name="2130969168" format="reference">
+    </attr>
+    <attr name="2130969169" format="dimension">
+    </attr>
+    <attr name="2130969170" format="color">
+    </attr>
+    <attr name="2130969171" format="dimension">
+    </attr>
+    <attr name="2130969172" format="boolean">
+    </attr>
+    <attr name="2130969173" format="dimension">
+    </attr>
+    <attr name="2130969174" format="boolean">
+    </attr>
+    <attr name="2130969175" format="dimension">
+    </attr>
+    <attr name="2130969176" format="boolean">
+    </attr>
+    <attr name="2130969177" format="boolean">
+    </attr>
+    <attr name="2130969178" format="dimension">
+    </attr>
+    <attr name="2130969179" format="dimension">
+    </attr>
+    <attr name="2130969180" format="reference">
+    </attr>
+    <attr name="2130969181" format="reference">
+    </attr>
+    <attr name="2130969182" format="dimension">
+    </attr>
+    <attr name="2130969183" format="string">
+    </attr>
+    <attr name="2130969184" format="reference">
+    </attr>
+    <attr name="2130969185" format="boolean">
+    </attr>
+    <attr name="2130969186" format="color">
+    </attr>
+    <attr name="2130969187">
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969188" format="string">
+    </attr>
+    <attr name="2130969189" format="reference">
+    </attr>
+    <attr name="2130969190" format="color">
+    </attr>
+    <attr name="2130969191" format="reference">
+    </attr>
+    <attr name="2130969192" format="reference">
+    </attr>
+    <attr name="2130969193" format="reference">
+    </attr>
+    <attr name="2130969194" format="boolean">
+    </attr>
+    <attr name="2130969196" format="reference">
+    </attr>
+    <attr name="2130969197" format="reference">
+    </attr>
+    <attr name="2130969198" format="reference">
+    </attr>
+    <attr name="2130969199" format="string">
+    </attr>
+    <attr name="2130969200" format="reference">
+    </attr>
+    <attr name="2130969201" format="color">
+    </attr>
+    <attr name="2130969202" format="boolean">
+    </attr>
+    <attr name="2130969203" format="dimension">
+    </attr>
+    <attr name="2130969204" format="dimension">
+    </attr>
+    <attr name="2130969205" format="reference">
+    </attr>
+    <attr name="2130969206" format="reference">
+    </attr>
+    <attr name="2130969207" format="string">
+    </attr>
+    <attr name="2130969208" format="reference">
+    </attr>
+    <attr name="2130969209" format="color">
+    </attr>
+    <attr name="2130969210" format="reference">
+    </attr>
+    <attr name="2130969211" format="reference">
+    </attr>
+    <attr name="2130969212" format="reference">
+    </attr>
+    <attr name="2130969213" format="reference">
+    </attr>
+    <attr name="2130969214" format="boolean">
+    </attr>
+    <attr name="2130969215" format="color">
+    </attr>
+    <attr name="2130969216" format="reference|string">
+    </attr>
+    <attr name="2130969217" format="integer">
+    </attr>
+    <attr name="2130969219" format="dimension">
+    </attr>
+    <attr name="2130969220" format="reference">
+    </attr>
+    <attr name="2130969221" format="reference">
+    </attr>
+    <attr name="2130969222" format="reference">
+    </attr>
+    <attr name="2130969223" format="reference">
+    </attr>
+    <attr name="2130969224" format="reference">
+    </attr>
+    <attr name="2130969225" format="reference">
+    </attr>
+    <attr name="2130969226" format="boolean">
+    </attr>
+    <attr name="2130969227" format="reference">
+    </attr>
+    <attr name="2130969230" format="reference">
+    </attr>
+    <attr name="2130969232">
+        <flag name="?0x7f0a0093" value="2" />
+        <flag name="?0x7f0a00c9" value="8" />
+        <flag name="?0x7f0a0126" value="1" />
+        <flag name="?0x7f0a0186" value="0" />
+        <flag name="?0x7f0a0297" value="4" />
+    </attr>
+    <attr name="2130969233">
+        <flag name="?0x7f0a00a3" value="1" />
+        <flag name="?0x7f0a00ee" value="4" />
+        <flag name="?0x7f0a015d" value="2" />
+        <flag name="?0x7f0a0188" value="0" />
+    </attr>
+    <attr name="2130969234" format="reference">
+    </attr>
+    <attr name="2130969235" format="boolean">
+    </attr>
+    <attr name="2130969236" format="boolean">
+    </attr>
+    <attr name="2130969237" format="reference">
+    </attr>
+    <attr name="2130969238" format="reference">
+    </attr>
+    <attr name="2130969239" format="boolean">
+    </attr>
+    <attr name="2130969240" format="boolean">
+    </attr>
+    <attr name="2130969241" format="reference">
+    </attr>
+    <attr name="2130969242" format="reference">
+    </attr>
+    <attr name="2130969243" format="reference">
+    </attr>
+    <attr name="2130969244" format="reference">
+    </attr>
+    <attr name="2130969245" format="integer">
+    </attr>
+    <attr name="2130969247" format="reference">
+    </attr>
+    <attr name="2130969248" format="reference">
+    </attr>
+    <attr name="2130969249" format="boolean">
+    </attr>
+    <attr name="2130969250" format="reference">
+    </attr>
+    <attr name="2130969251" format="boolean">
+    </attr>
+    <attr name="2130969252" format="reference">
+    </attr>
+    <attr name="2130969253" format="boolean">
+    </attr>
+    <attr name="2130969254" format="string">
+    </attr>
+    <attr name="2130969255" format="reference">
+    </attr>
+    <attr name="2130969256" format="color">
+    </attr>
+    <attr name="2130969257">
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969259" format="boolean">
+    </attr>
+    <attr name="2130969260" format="boolean">
+    </attr>
+    <attr name="2130969261" format="boolean">
+    </attr>
+    <attr name="2130969262" format="boolean">
+    </attr>
+    <attr name="2130969263" format="boolean">
+    </attr>
+    <attr name="2130969264" format="reference|color">
+    </attr>
+    <attr name="2130969265" format="color">
+    </attr>
+    <attr name="2130969266" format="color">
+    </attr>
+    <attr name="2130969267" format="color">
+    </attr>
+    <attr name="2130969268" format="dimension">
+    </attr>
+    <attr name="2130969269" format="reference">
+    </attr>
+    <attr name="2130969270" format="reference">
+    </attr>
+    <attr name="2130969271" format="string">
+    </attr>
+    <attr name="2130969272" format="reference">
+    </attr>
+    <attr name="2130969273" format="color">
+    </attr>
+    <attr name="2130969274" format="reference">
+    </attr>
+    <attr name="2130969275" format="string">
+    </attr>
+    <attr name="2130969276" format="reference">
+    </attr>
+    <attr name="2130969277" format="color">
+    </attr>
+    <attr name="2130969278" format="reference">
+    </attr>
+    <attr name="2130969279" format="dimension">
+    </attr>
+    <attr name="2130969280" format="dimension">
+    </attr>
+    <attr name="2130969281" format="reference">
+    </attr>
+    <attr name="2130969282" format="reference">
+    </attr>
+    <attr name="2130969283" format="reference">
+    </attr>
+    <attr name="2130969284" format="dimension">
+    </attr>
+    <attr name="2130969285">
+        <enum name="2131361976" value="1" />
+        <enum name="?0x7f0a0101" value="0" />
+        <enum name="2131362353" value="2" />
+    </attr>
+    <attr name="2130969286" format="color">
+    </attr>
+    <attr name="2130969287">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969288" format="reference">
+    </attr>
+    <attr name="2130969289" format="integer">
+    </attr>
+    <attr name="2130969290" format="color">
+    </attr>
+    <attr name="2130969291" format="boolean">
+    </attr>
+    <attr name="2130969292">
+        <enum name="2131361964" value="0" />
+        <enum name="2131361976" value="1" />
+        <enum name="?0x7f0a0234" value="3" />
+        <enum name="?0x7f0a0262" value="2" />
+    </attr>
+    <attr name="2130969293" format="dimension">
+    </attr>
+    <attr name="2130969294" format="boolean">
+    </attr>
+    <attr name="2130969295" format="dimension">
+    </attr>
+    <attr name="2130969296" format="dimension">
+    </attr>
+    <attr name="2130969297">
+        <enum name="?0x7f0a009d" value="2" />
+        <enum name="?0x7f0a0109" value="1" />
+        <enum name="?0x7f0a020a" value="0" />
+    </attr>
+    <attr name="2130969298" format="dimension">
+    </attr>
+    <attr name="2130969299" format="dimension">
+    </attr>
+    <attr name="2130969300" format="dimension">
+    </attr>
+    <attr name="2130969301" format="dimension">
+    </attr>
+    <attr name="2130969302" format="dimension">
+    </attr>
+    <attr name="2130969303" format="color">
+    </attr>
+    <attr name="2130969304" format="color">
+    </attr>
+    <attr name="2130969305" format="reference">
+    </attr>
+    <attr name="2130969306" format="reference">
+    </attr>
+    <attr name="2130969307" format="color">
+    </attr>
+    <attr name="2130969308" format="boolean">
+    </attr>
+    <attr name="2130969309" format="string">
+    </attr>
+    <attr name="2130969310" format="reference|boolean">
+    </attr>
+    <attr name="2130969321" format="reference">
+    </attr>
+    <attr name="2130969322" format="boolean">
+    </attr>
+    <attr name="2130969323" format="reference">
+    </attr>
+    <attr name="2130969324" format="reference">
+    </attr>
+    <attr name="2130969325" format="reference">
+    </attr>
+    <attr name="2130969327" format="reference">
+    </attr>
+    <attr name="2130969328" format="reference">
+    </attr>
+    <attr name="2130969329" format="reference">
+    </attr>
+    <attr name="2130969330" format="reference">
+    </attr>
+    <attr name="2130969333" format="reference|color">
+    </attr>
+    <attr name="2130969334" format="reference|color">
+    </attr>
+    <attr name="2130969335" format="dimension">
+    </attr>
+    <attr name="2130969336" format="reference">
+    </attr>
+    <attr name="2130969337" format="string">
+    </attr>
+    <attr name="2130969338" format="dimension">
+    </attr>
+    <attr name="2130969339" format="string">
+    </attr>
+    <attr name="2130969340" format="reference">
+    </attr>
+    <attr name="2130969343" format="color">
+    </attr>
+    <attr name="2130969344" format="dimension">
+    </attr>
+    <attr name="2130969345" format="dimension">
+    </attr>
+    <attr name="2130969346" format="dimension">
+    </attr>
+    <attr name="2130969347" format="color">
+    </attr>
+    <attr name="2130969348">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969349" format="color">
+    </attr>
+    <attr name="2130969350" format="color">
+    </attr>
+    <attr name="2130969351" format="color">
+    </attr>
+    <attr name="2130969352" format="reference">
+    </attr>
+    <attr name="2130969353" format="color">
+    </attr>
+    <attr name="2130969354">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969355" format="color">
+    </attr>
+    <attr name="2130969356">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969357" format="string">
+    </attr>
+    <attr name="2130969358" format="boolean">
+    </attr>
+    <attr name="2130969359" format="dimension">
+    </attr>
+    <attr name="2130969360" format="dimension">
+    </attr>
+    <attr name="2130969361" format="dimension">
+    </attr>
+    <attr name="2130969362" format="dimension">
+    </attr>
+    <attr name="2130969363" format="dimension">
+    </attr>
+    <attr name="2130969364" format="dimension">
+    </attr>
+    <attr name="2130969365" format="reference">
+    </attr>
+    <attr name="2130969366" format="color">
+    </attr>
+    <attr name="2130969367" format="reference">
+    </attr>
+    <attr name="2130969368" format="reference">
+    </attr>
+    <attr name="2130969369" format="reference">
+    </attr>
+    <attr name="2130969370" format="reference">
+    </attr>
+    <attr name="2130969371" format="reference|color">
+    </attr>
+    <attr name="2130969372" format="reference">
+    </attr>
+    <attr name="2130969374" format="string">
+    </attr>
+    <attr name="2130969375" format="reference">
+    </attr>
+    <attr name="2130969376" format="color">
+    </attr>
+    <attr name="2130969377" format="color">
+    </attr>
+    <attr name="2130969378" format="color">
+    </attr>
+    <attr name="2130969379" format="dimension">
+    </attr>
+    <attr name="2130969380" format="color">
+    </attr>
+    <attr name="2130969381">
+        <enum name="?0x7f0a008e" value="16" />
+        <enum name="?0x7f0a017e" value="14" />
+        <enum name="?0x7f0a0205" value="15" />
+        <enum name="?0x7f0a022d" value="9" />
+        <enum name="?0x7f0a022e" value="5" />
+        <enum name="?0x7f0a022f" value="3" />
+    </attr>
+    <attr name="2130969382" format="integer">
+    </attr>
+    <attr name="2130969383" format="string">
+    </attr>
+    <attr name="2130969384" format="boolean">
+    </attr>
+    <attr name="2130969385" format="boolean">
+    </attr>
+    <attr name="2130969387" format="string">
+    </attr>
+    <attr name="2130969388" format="reference">
+    </attr>
+    <attr name="2130969389" format="dimension">
+    </attr>
+    <attr name="2130969390" format="boolean">
+    </attr>
+    <attr name="2130969391" format="boolean">
+    </attr>
+    <attr name="2130969392" format="boolean">
+    </attr>
+    <attr name="2130969393" format="dimension|fraction">
+    </attr>
+    <attr name="2130969394" format="dimension|fraction">
+    </attr>
+    <attr name="2130969395" format="dimension|fraction">
+    </attr>
+    <attr name="2130969396" format="dimension|fraction">
+    </attr>
+    <attr name="2130969397" format="dimension|fraction">
+    </attr>
+    <attr name="2130969398" format="dimension|fraction">
+    </attr>
+    <attr name="2130969399" format="boolean">
+    </attr>
+    <attr name="2130969400" format="reference">
+    </attr>
+    <attr name="2130969401" format="reference">
+    </attr>
+    <attr name="2130969402" format="reference">
+    </attr>
+</resources>

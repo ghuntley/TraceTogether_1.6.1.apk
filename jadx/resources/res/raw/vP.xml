@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" layout_width="match_parent" layout_height="match_parent">
+    <o.C2512 layout_width="match_parent" layout_height="0dp" NOT_FOUND_0x13="@+id/2131362061" NOT_FOUND_0x17="0">
+        <LinearLayout orientation="vertical" id="@+id/2131362403" paddingTop="48dp" layout_width="match_parent" layout_height="0dp" NOT_FOUND_0x17="0">
+            <o.C1514 layout_width="match_parent" layout_height="wrap_content" text="Enter your OTP" style="@style/2131951863"/>
+            <o.C1514 textSize="20sp" textColor="#505050" id="@+id/2131362329" paddingLeft="24dp" paddingRight="24dp" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="12dp" text="A 6-digit code has been sent to %s."/>
+            <o.C1514 textSize="20sp" textColor="#003db5" id="@+id/2131362459" paddingLeft="24dp" paddingRight="24dp" layout_width="wrap_content" layout_height="wrap_content" text="@string/2131886358"/>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@+id/2131362142" paddingLeft="24dp" paddingRight="24dp" layout_width="match_parent" layout_height="0dp" NOT_FOUND_0x13="@+id/2131361965" NOT_FOUND_0x14="0" NOT_FOUND_0x15="0" NOT_FOUND_0x16="@+id/2131362403" NOT_FOUND_0x18="3">
+            <o.C1514 textSize="20dp" textStyle="bold" textColor="#383838" visibility="invisible" layout_width="match_parent" layout_height="wrap_content" text="Mobile number"/>
+            <EditText gravity="left" id="@+id/2131362336" layout_width="match_parent" layout_height="wrap_content" maxLength="6" lineSpacingExtra="12dp" inputType="number" imeOptions="actionGo"/>
+            <o.C1514 textSize="16sp" textStyle="normal" textColor="#cc0000" gravity="left" id="@+id/2131362421" visibility="visible" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="0dp"/>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" id="@+id/2131361965" paddingLeft="24dp" paddingRight="24dp" layout_width="match_parent" layout_height="0dp" NOT_FOUND_0x12="0" NOT_FOUND_0x14="0" NOT_FOUND_0x15="0" NOT_FOUND_0x16="@+id/2131362142" NOT_FOUND_0x18="4">
+            <LinearLayout orientation="horizontal" layout_width="match_parent" layout_height="wrap_content">
+                <o.C1514 textSize="20dp" textColor="#505050" layout_width="wrap_content" layout_height="wrap_content" text="Your code will expire in "/>
+                <o.C1514 textSize="20dp" textStyle="bold" textColor="#505050" id="@+id/2131362397" layout_width="wrap_content" layout_height="wrap_content" text="1:59"/>
+            </LinearLayout>
+            <o.C1514 textSize="20dp" textColor="#003db5" gravity="left" id="@+id/2131362293" layout_width="match_parent" layout_height="wrap_content" text="@string/2131886303"/>
+        </LinearLayout>
+    </o.C2512>
+    <FrameLayout id="@+id/2131362061" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x12="0">
+        <include layout="@layout/2131558441"/>
+    </FrameLayout>
+</o.C2512>

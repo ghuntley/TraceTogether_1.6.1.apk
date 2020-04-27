@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" layout_width="match_parent" layout_height="match_parent">
+    <LinearLayout orientation="vertical" id="@+id/2131362403" paddingTop="48dp" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x1e="@+id/2131362142" NOT_FOUND_0x20="0" NOT_FOUND_0x22="0">
+        <o.C1514 textStyle="bold" layout_width="match_parent" layout_height="wrap_content" text="Register your mobile number" style="@style/2131951863"/>
+        <o.C1514 layout_width="match_parent" layout_height="wrap_content" text="We&apos;ll contact you if you had close contact with a COVID-19 case." style="@style/2131951858"/>
+        <o.C1514 layout_width="match_parent" layout_height="wrap_content" text="Setting up for your family? \10Use their number instead of yours." style="@style/2131951862"/>
+    </LinearLayout>
+    <o.C2512 orientation="vertical" id="@+id/2131362142" paddingLeft="32dp" paddingRight="32dp" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="28dp" NOT_FOUND_0x20="0" NOT_FOUND_0x22="0" NOT_FOUND_0x24="@+id/2131362403">
+        <o.C1514 textSize="18sp" textStyle="bold" textColor="#383838" id="@+id/2131362144" layout_width="match_parent" layout_height="wrap_content" text="Mobile number" NOT_FOUND_0x20="0" NOT_FOUND_0x25="0" style="@style/2131951624"/>
+        <o.C2639 id="@+id/2131362001" layout_width="wrap_content" layout_height="match_parent" NOT_FOUND_0x13="false" NOT_FOUND_0x14="SG" NOT_FOUND_0x15="SG" NOT_FOUND_0x16="SG" NOT_FOUND_0x17="#505050" NOT_FOUND_0x18="true" NOT_FOUND_0x19="false" NOT_FOUND_0x1a="false" NOT_FOUND_0x1b="false" NOT_FOUND_0x1c="20sp" NOT_FOUND_0x1d="@+id/2131362208" NOT_FOUND_0x20="0" NOT_FOUND_0x25="@+id/2131362208"/>
+        <EditText textSize="20sp" id="@+id/2131362208" layout_width="0dp" layout_height="match_parent" maxEms="8" drawableBottom="#b0b0b0" inputType="phone" imeOptions="actionGo" NOT_FOUND_0x1f="0" NOT_FOUND_0x22="0" NOT_FOUND_0x23="@+id/2131362001" NOT_FOUND_0x24="@+id/2131362144"/>
+        <o.C1514 textColor="#cc0000" id="@+id/2131362209" visibility="invisible" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="2dp" text="Phone number invalid" textAlignment="textStart" NOT_FOUND_0x21="@+id/2131362001" NOT_FOUND_0x24="@+id/2131362208"/>
+        <o.C1514 layout_width="match_parent" layout_height="wrap_content" layout_marginTop="40dp" text="We&apos;ll text you a One-Time Pin (OTP)" textAlignment="textStart" NOT_FOUND_0x20="0" NOT_FOUND_0x22="0" NOT_FOUND_0x24="@+id/2131362001"/>
+    </o.C2512>
+    <FrameLayout id="@+id/2131362061" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x1d="0">
+        <include layout="@layout/2131558441"/>
+    </FrameLayout>
+</o.C2512>

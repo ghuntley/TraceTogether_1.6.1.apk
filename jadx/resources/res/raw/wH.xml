@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C1830 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" id="@+id/2131362270" layout_width="match_parent" layout_height="match_parent">
+    <LinearLayout gravity="center" orientation="vertical" layout_width="match_parent" layout_height="match_parent">
+        <o.C2146 layout_width="0dp" layout_height="0dp" layout_weight="1"/>
+        <include layout="@layout/2131558546"/>
+        <TextView textSize="16sp" gravity="center" id="@+id/2131362257" layout_width="wrap_content" layout_height="wrap_content" layout_marginLeft="64dp" layout_marginRight="64dp" text="@string/2131886283" layout_marginStart="64dp" layout_marginEnd="64dp"/>
+        <Button id="@+id/2131362258" paddingLeft="16dp" paddingTop="10dp" paddingRight="16dp" paddingBottom="10dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="16dp" text="@string/2131886282" style="@style/2131952322"/>
+        <o.C2146 layout_width="0dp" layout_height="0dp" layout_weight="1"/>
+        <ImageView layout_gravity="bottom|center_vertical|center_horizontal|center" id="@+id/2131362274" padding="8dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="24dp" src="0x7f08020f" contentDescription="Zendesk"/>
+    </LinearLayout>
+</o.C1830>

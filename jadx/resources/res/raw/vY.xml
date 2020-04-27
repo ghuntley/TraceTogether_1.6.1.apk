@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" orientation="vertical" background="@drawable/2131230819" layout_width="match_parent" layout_height="match_parent" weightSum="6">
+    <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_weight="5">
+        <LinearLayout layout_width="match_parent" layout_height="60dp"/>
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_marginLeft="30dp" layout_marginRight="30dp" layout_weight="3">
+            <o.C1514 textSize="15sp" layout_width="match_parent" layout_height="wrap_content" text="STEP 1"/>
+            <o.C1514 textSize="18sp" textStyle="bold" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="10dp" text="Verify that the contact tracer is from MOH"/>
+            <o.C1514 textSize="15sp" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="10dp" text="Make sure they give you a code that matches the one below."/>
+        </LinearLayout>
+        <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_marginLeft="30dp" layout_marginTop="60dp" layout_marginRight="30dp" layout_weight="2">
+            <LinearLayout orientation="horizontal" layout_width="match_parent" layout_height="wrap_content">
+                <o.C1514 textSize="17sp" layout_width="wrap_content" layout_height="match_parent" text="Verification code: "/>
+                <o.C1514 textSize="17sp" textStyle="bold" id="@+id/2131362436" layout_width="wrap_content" layout_height="match_parent" text="JDEPLC"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout orientation="vertical" layout_width="match_parent" layout_height="0dp" layout_weight="1">
+        <Button textSize="18sp" textStyle="normal" textColor="#ffffff" id="@+id/2131361916" background="@drawable/2131231128" layout_width="match_parent" layout_height="50dp" layout_marginLeft="30dp" layout_marginRight="30dp" text="Next" textAllCaps="false" fontFamily="@font/2131296256" NOT_FOUND_0x10="600"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" layout_width="match_parent" layout_height="match_parent">
+    <o.C2512 layout_width="match_parent" layout_height="0dp" NOT_FOUND_0xb="@+id/2131362061" NOT_FOUND_0x12="0">
+        <o.C1514 id="@+id/2131362076" paddingLeft="26dp" paddingTop="48dp" paddingRight="26dp" paddingBottom="24dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="35dp" text="Your consent is needed for the following:" NOT_FOUND_0x10="0" NOT_FOUND_0x12="0" style="@style/2131951863"/>
+        <o.C2147 id="@+id/2131362207" paddingLeft="24dp" paddingTop="8dp" paddingRight="24dp" layout_width="wrap_content" layout_height="wrap_content" NOT_FOUND_0xc="0" NOT_FOUND_0xf="@+id/2131362029" NOT_FOUND_0x12="@+id/2131362208" NOT_FOUND_0x13="@drawable/2131231165"/>
+        <o.C1514 id="@+id/2131362208" paddingLeft="3dp" layout_width="0dp" layout_height="wrap_content" text="To store your mobile number in a secured TraceTogether registry" NOT_FOUND_0xd="@+id/2131362207" NOT_FOUND_0xf="0" NOT_FOUND_0x11="@+id/2131362076" style="@style/2131951858"/>
+        <o.C2147 id="@+id/2131362029" paddingLeft="24dp" paddingTop="8dp" paddingRight="24dp" layout_width="wrap_content" layout_height="wrap_content" NOT_FOUND_0xc="0" NOT_FOUND_0x12="@+id/2131362006" NOT_FOUND_0x13="@drawable/2131231150"/>
+        <o.C1514 id="@+id/2131362006" paddingLeft="0dp" layout_width="0dp" layout_height="wrap_content" text="To allow TraceTogether users to send MOH information of encounters with you, if they are confirmed or suspected to have COVID-19" NOT_FOUND_0xd="@+id/2131362029" NOT_FOUND_0xf="0" NOT_FOUND_0x11="@+id/2131362208" style="@style/2131951858"/>
+        <o.C1514 id="@+id/2131362219" paddingLeft="24dp" layout_width="wrap_content" layout_height="wrap_content" layout_marginBottom="20dp" text="Read our " NOT_FOUND_0xa="0" NOT_FOUND_0xc="0" NOT_FOUND_0xe="@+id/2131362213" style="@style/2131951860"/>
+        <o.C1514 id="@+id/2131362213" layout_width="0dp" layout_height="wrap_content" layout_marginBottom="20dp" text="@string/2131886262" NOT_FOUND_0xa="0" NOT_FOUND_0xd="@+id/2131362219" NOT_FOUND_0xf="0" style="@style/2131951860"/>
+    </o.C2512>
+    <FrameLayout id="@+id/2131362061" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0xa="0">
+        <include layout="@layout/2131558441"/>
+    </FrameLayout>
+</o.C2512>

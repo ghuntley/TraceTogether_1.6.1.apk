@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" layout_width="match_parent" layout_height="match_parent">
+    <o.C2512 layout_width="match_parent" layout_height="0dp" NOT_FOUND_0x18="@+id/2131362061" NOT_FOUND_0x1d="0">
+        <ImageView id="@+id/2131362191" layout_width="wrap_content" layout_height="wrap_content" src="0x7f080071" NOT_FOUND_0x19="0" NOT_FOUND_0x1b="0" NOT_FOUND_0x1d="0" style="@style/2131951861"/>
+        <o.C1514 gravity="left" id="@+id/2131362425" visibility="visible" layout_width="0dp" layout_height="wrap_content" text="App permissions are fully set up" NOT_FOUND_0x19="0" NOT_FOUND_0x1b="0" NOT_FOUND_0x1c="@+id/2131362191" style="@style/2131951863"/>
+        <o.C1514 gravity="left" id="@+id/2131362413" visibility="visible" layout_width="0dp" layout_height="wrap_content" text="Please leave all settings on until the outbreak ends." NOT_FOUND_0x19="0" NOT_FOUND_0x1b="0" NOT_FOUND_0x1c="@+id/2131362425" style="@style/2131951858"/>
+        <LinearLayout orientation="vertical" id="@+id/2131362412" paddingLeft="24dp" paddingTop="12dp" paddingRight="24dp" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x19="0" NOT_FOUND_0x1b="0" NOT_FOUND_0x1c="@+id/2131362413">
+            <o.C2963 id="@+id/2131362330" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x12="@color/2131099778" NOT_FOUND_0x13="12dp" NOT_FOUND_0x14="2dp" NOT_FOUND_0x15="true" NOT_FOUND_0x16="0dp">
+                <o.C2512 background="?android:attr/selectableItemBackground" padding="15dp" layout_width="match_parent" layout_height="match_parent">
+                    <ImageView id="@+id/2131362098" layout_width="wrap_content" layout_height="wrap_content" layout_marginTop="4dp" src="@drawable/2131231163" NOT_FOUND_0x19="0" NOT_FOUND_0x1d="0"/>
+                    <o.C1514 textSize="16sp" textStyle="normal" textColor="#000000" layout_gravity="center_vertical" paddingLeft="8dp" paddingRight="8dp" visibility="visible" layout_width="0dp" layout_height="wrap_content" text="Keep push notifications on too, so we can alert you if the app is not scanning." NOT_FOUND_0x1a="@+id/2131362098" NOT_FOUND_0x1b="0" NOT_FOUND_0x1d="0"/>
+                </o.C2512>
+            </o.C2963>
+        </LinearLayout>
+    </o.C2512>
+    <FrameLayout id="@+id/2131362061" layout_width="match_parent" layout_height="wrap_content" NOT_FOUND_0x17="0">
+        <include layout="@layout/2131558441"/>
+    </FrameLayout>
+</o.C2512>

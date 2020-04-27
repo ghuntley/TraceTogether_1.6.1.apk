@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<o.C2512 xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" background="#00000000" layout_width="match_parent" layout_height="match_parent">
+    <o.C1514 textSize="16sp" textStyle="bold" textColor="#383838" gravity="left" id="@+id/2131362425" paddingLeft="16dp" paddingRight="16dp" visibility="visible" layout_width="match_parent" layout_height="wrap_content" layout_marginTop="20dp" layout_marginBottom="12dp" text="Help" NOT_FOUND_0xe="0" NOT_FOUND_0xf="0" NOT_FOUND_0x10="0"/>
+</o.C2512>

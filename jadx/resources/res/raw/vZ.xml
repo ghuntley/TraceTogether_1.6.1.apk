@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" id="@+id/2131362000" layout_width="match_parent" layout_height="wrap_content">
+    <RelativeLayout id="@+id/2131362299" background="@drawable/2131230845" padding="8dp" layout_width="match_parent" layout_height="wrap_content">
+        <LinearLayout layout_gravity="center_vertical" id="@+id/2131362117" layout_width="wrap_content" layout_height="wrap_content" layout_marginRight="8dp" layout_centerVertical="true" layout_marginEnd="8dp">
+            <LinearLayout id="@+id/2131362116" background="@android:color/transparent" layout_width="wrap_content" layout_height="wrap_content">
+                <ImageView id="@+id/2131362089" layout_width="wrap_content" layout_height="18dp" layout_margin="0.5dp" src="@drawable/2131230975" adjustViewBounds="true"/>
+            </LinearLayout>
+        </LinearLayout>
+        <TextView textSize="18sp" textColor="@android:color/black" gravity="center" id="@+id/2131362384" layout_width="match_parent" layout_height="wrap_content" text="(IN) +91" layout_toLeftOf="@+id/2131362088" layout_toRightOf="@+id/2131362117" layout_centerVertical="true" layout_toStartOf="@+id/2131362088" layout_toEndOf="@+id/2131362117"/>
+        <ImageView id="@+id/2131362088" layout_width="wrap_content" layout_height="wrap_content" src="0x7f08007b" adjustViewBounds="true" layout_alignParentRight="true" layout_centerVertical="true" alpha="0.6" layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</RelativeLayout>

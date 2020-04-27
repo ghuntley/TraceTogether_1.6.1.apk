@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" textSize="24sp" gravity="center" background="@drawable/2131230876" visibility="invisible" layout_width="64dp" layout_height="64dp" layout_margin="1dp" elevation="2dp"/>
